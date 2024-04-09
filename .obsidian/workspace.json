@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "机会与风险.md",
+                "file": "生活/机会与风险.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "机会与风险.md",
+                "file": "生活/机会与风险.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "机会与风险.md",
+                "file": "生活/机会与风险.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "机会与风险.md"
+                "file": "生活/机会与风险.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "c52f2948b72eb1a0",
   "lastOpenFiles": [
+    "生活",
     "技巧工具/Obsidian配置PicGo-core.md",
-    "机会与风险.md",
+    "生活/机会与风险.md",
     "提交测试.md",
     "Welcome.md"
   ]
