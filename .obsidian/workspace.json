@@ -8,42 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1b66d4697918885",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c52f2948b72eb1a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "提交测试.md",
+                "file": "机会与风险.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "881ce444a6410354",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "57b55a6f16d86e09",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -112,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "提交测试.md",
+                "file": "机会与风险.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "提交测试.md",
+                "file": "机会与风险.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "提交测试.md"
+                "file": "机会与风险.md"
               }
             }
           }
@@ -175,7 +148,9 @@
   },
   "active": "c52f2948b72eb1a0",
   "lastOpenFiles": [
-    "Welcome.md",
-    "提交测试.md"
+    "技巧工具/Obsidian配置PicGo-core.md",
+    "机会与风险.md",
+    "提交测试.md",
+    "Welcome.md"
   ]
 }
