@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 227.5
   },
   "right": {
     "id": "3f295fa673ec3346",
@@ -148,9 +148,9 @@
   },
   "active": "6cfe33f0f4abbbef",
   "lastOpenFiles": [
-    "README.md",
+    "生活思考/机会与风险.md",
     "技巧工具/Obsidian配置PicGo-core.md",
-    "生活思考",
-    "生活思考/机会与风险.md"
+    "README.md",
+    "生活思考"
   ]
 }
