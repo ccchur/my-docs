@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "灵感/小说.md",
+                "file": "web3/BTC密码学.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "灵感/小说.md",
+                "file": "web3/BTC密码学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "灵感/小说.md",
+                "file": "web3/BTC密码学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "灵感/小说.md"
+                "file": "web3/BTC密码学.md"
               }
             }
           }
@@ -146,12 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c5c2b9f0a2814646",
+  "active": "6cfe33f0f4abbbef",
   "lastOpenFiles": [
+    "灵感/小说.md",
     "web3/BTC密码学.md",
     "web3",
     "未命名.canvas",
-    "灵感/小说.md",
     "灵感",
     "README.md",
     "生活思考/机会与风险.md",
