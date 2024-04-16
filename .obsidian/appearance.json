@@ -1,8 +1,13 @@
 {
   "accentColor": "",
   "cssTheme": "Blue Topaz",
+<<<<<<< HEAD
   "theme": "moonstone",
   "baseFontSize": 18,
+=======
+  "theme": "obsidian",
+  "baseFontSize": 20,
+>>>>>>> origin/master
   "baseFontSizeAction": true,
   "interfaceFontFamily": "Papyrus"
 }
