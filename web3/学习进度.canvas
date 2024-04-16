@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"5adcdb9e97bcc0b2","x":-520,"y":-260,"width":340,"height":260,"type":"group","label":"快速入门React"},
-		{"id":"6c5d60b9288d001b","x":-21,"y":-58,"width":250,"height":60,"type":"text","text":""},
-		{"id":"30c5912d9a8677a0","x":-480,"y":-220,"width":250,"height":60,"type":"text","text":"[快速入门React](https://www.bilibili.com/video/BV1764y1z7pb/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=5e407ab2fed16d22ec92fa8db030ffef)"}
-	],
-	"edges":[]
-}

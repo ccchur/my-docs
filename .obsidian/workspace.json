@@ -11,14 +11,11 @@
             "id": "6cfe33f0f4abbbef",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "web3/学习进度.canvas",
-                "viewState": {
-                  "x": -104.5,
-                  "y": -36.5,
-                  "zoom": 0
-                }
+                "file": "技巧工具/Obsidian配置PicGo-core.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,12 +64,21 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "a1d2177f4d563314",
+            "type": "leaf",
+            "state": {
+              "type": "calendar-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 475.5
   },
   "right": {
     "id": "3f295fa673ec3346",
@@ -88,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web3/学习进度.canvas",
+                "file": "技巧工具/Obsidian配置PicGo-core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web3/学习进度.canvas",
+                "file": "技巧工具/Obsidian配置PicGo-core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,15 +134,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web3/学习进度.canvas"
+                "file": "技巧工具/Obsidian配置PicGo-core.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 512.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -149,10 +156,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6cfe33f0f4abbbef",
+  "active": "a1d2177f4d563314",
   "lastOpenFiles": [
-    "技巧工具/Obsidian配置PicGo-core.md",
     "web3/学习进度.canvas",
+    "技巧工具/Obsidian配置PicGo-core.md",
     "web3/BTC密码学.md",
     "web3",
     "灵感/小说.md",
