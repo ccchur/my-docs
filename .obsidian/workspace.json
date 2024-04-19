@@ -4,22 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "3851287ae08a1344",
+        "id": "d54780bae8ebd1b4",
         "type": "tabs",
         "children": [
           {
-            "id": "6cfe33f0f4abbbef",
+            "id": "4abc40aee2dd8b57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4611c8915769f674",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
               "state": {
-                "file": "web3/学习进度.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": -74.62849283127358,
+                  "y": 240.63517796641275,
+                  "zoom": -0.6666666666666667
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web3/学习进度.md",
+                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web3/学习进度.md",
+                "file": "未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web3/学习进度.md"
+                "file": "未命名.canvas"
               }
             }
           }
@@ -147,14 +159,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6cfe33f0f4abbbef",
+  "active": "4611c8915769f674",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "未命名.canvas",
     "web3/学习进度.md",
+    "conflict-files-obsidian-git.md",
     "web3/BTC密码学.md",
     "灵感/小说.md",
     "web3",
-    "未命名.canvas",
     "灵感",
     "README.md",
     "生活思考/机会与风险.md",

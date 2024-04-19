@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"f4d3ae9189103922","x":-200,"y":211,"width":250,"height":60,"type":"text","text":""},
+		{"id":"e225a32c337bc486","x":-380,"y":-120,"width":250,"height":60,"type":"text","text":"React"},
+		{"id":"63d8f6b1f862332a","x":-380,"y":40,"width":250,"height":60,"type":"text","text":"Next.js"},
+		{"id":"530e4cc5d675f9ae","x":-380,"y":200,"width":250,"height":60,"type":"text","text":"solidity"},
+		{"id":"02106f731c71717d","x":-380,"y":360,"width":250,"height":60,"type":"text","text":"ethers.js"}
+	],
+	"edges":[
+		{"id":"9e12cbda6ae019d9","fromNode":"e225a32c337bc486","fromSide":"right","toNode":"63d8f6b1f862332a","toSide":"left"},
+		{"id":"6b65e05fa89fd372","fromNode":"63d8f6b1f862332a","fromSide":"right","toNode":"530e4cc5d675f9ae","toSide":"left"},
+		{"id":"9c0a90fbbc9d4715","fromNode":"530e4cc5d675f9ae","fromSide":"right","toNode":"02106f731c71717d","toSide":"left"}
+	]
+}
