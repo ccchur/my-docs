@@ -4,7 +4,7 @@
 		{"id":"63d8f6b1f862332a","x":-380,"y":40,"width":250,"height":60,"type":"text","text":"Next.js"},
 		{"id":"530e4cc5d675f9ae","x":-380,"y":200,"width":250,"height":60,"type":"text","text":"solidity"},
 		{"id":"02106f731c71717d","x":-380,"y":360,"width":250,"height":60,"type":"text","text":"ethers.js"},
-		{"id":"5ed8f17cd28d38f4","x":-455,"y":500,"width":400,"height":133,"type":"file","file":"Pasted image 20240419163949.png"}
+		{"id":"281f51ac6247b267","x":-540,"y":440,"width":900,"height":220,"type":"text","text":"- **实现一个简易的 ERC20 合约（前端、后端都需要完成）**\n\n    技术要求：Solidity 语法（前端要求了解即可，后端要求掌握）\n    \n    实现目标：了解合约基本概念语法，能根据教程 Demo 实现 ERC20 合约（前端）；\n    \n    掌握合约基本概念语法，做到根据 IERC20 合约不参考 Demo 教程自己实现 ERC20。\n    \n    参考资料：[https://github.com/AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) (1-6讲、12 讲，Demo 教程为 31 讲）。\n    \n    学习提示：前后端要求不一样，根据自己的方向学习即可，有问题小群讨论解答。"}
 	],
 	"edges":[
 		{"id":"9e12cbda6ae019d9","fromNode":"e225a32c337bc486","fromSide":"right","toNode":"63d8f6b1f862332a","toSide":"left"},
