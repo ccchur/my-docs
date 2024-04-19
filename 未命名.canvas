@@ -8,7 +8,8 @@
 		{"id":"e225a32c337bc486","type":"text","text":"React","x":-680,"y":60,"width":250,"height":60},
 		{"id":"63d8f6b1f862332a","type":"text","text":"Next.js","x":-680,"y":220,"width":250,"height":60},
 		{"id":"530e4cc5d675f9ae","type":"text","text":"solidity","x":-680,"y":380,"width":250,"height":60},
-		{"id":"02106f731c71717d","type":"text","text":"ethers.js","x":-680,"y":540,"width":250,"height":60}
+		{"id":"02106f731c71717d","type":"text","text":"ethers.js","x":-680,"y":540,"width":250,"height":60},
+		{"id":"6087505c70a7ebd1","x":-620,"y":720,"width":500,"height":100,"type":"text","text":"[作业文档](https://grayjiang.notion.site/All-In-Web3-d595d9e5cff74c2a88b32d197a787158)\n "}
 	],
 	"edges":[
 		{"id":"9e12cbda6ae019d9","fromNode":"e225a32c337bc486","fromSide":"right","toNode":"63d8f6b1f862332a","toSide":"left"},
