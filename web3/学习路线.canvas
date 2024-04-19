@@ -9,7 +9,8 @@
 		{"id":"e225a32c337bc486","type":"text","text":"React","x":-240,"y":90,"width":250,"height":60},
 		{"id":"63d8f6b1f862332a","type":"text","text":"Next.js","x":-240,"y":250,"width":250,"height":60},
 		{"id":"530e4cc5d675f9ae","type":"text","text":"solidity(基本语法)","x":-240,"y":410,"width":250,"height":60},
-		{"id":"02106f731c71717d","type":"text","text":"[ethers.js](https://learnblockchain.cn/ethers_v5/)","x":-240,"y":570,"width":250,"height":60}
+		{"id":"02106f731c71717d","type":"text","text":"[ethers.js](https://learnblockchain.cn/ethers_v5/)","x":-240,"y":570,"width":250,"height":60},
+		{"id":"c818737842d4d07e","x":-400,"y":190,"width":120,"height":60,"type":"text","text":"tailwindcss"}
 	],
 	"edges":[
 		{"id":"9e12cbda6ae019d9","fromNode":"e225a32c337bc486","fromSide":"right","toNode":"63d8f6b1f862332a","toSide":"left"},
@@ -19,6 +20,7 @@
 		{"id":"0beb52b77cbcfdf6","fromNode":"530e4cc5d675f9ae","fromSide":"right","toNode":"d52d6e5f6f3fb617","toSide":"left"},
 		{"id":"384943001a06b143","fromNode":"530e4cc5d675f9ae","fromSide":"right","toNode":"3d94248264023b50","toSide":"left"},
 		{"id":"5df2a8c3f73a3c5f","fromNode":"530e4cc5d675f9ae","fromSide":"right","toNode":"3973f74a37013ad3","toSide":"left"},
-		{"id":"5d0aed7c6517c523","fromNode":"530e4cc5d675f9ae","fromSide":"right","toNode":"10f3f583c66027ba","toSide":"left"}
+		{"id":"5d0aed7c6517c523","fromNode":"530e4cc5d675f9ae","fromSide":"right","toNode":"10f3f583c66027ba","toSide":"left"},
+		{"id":"6958d9aa7e96f34c","fromNode":"c818737842d4d07e","fromSide":"right","toNode":"63d8f6b1f862332a","toSide":"left"}
 	]
 }
