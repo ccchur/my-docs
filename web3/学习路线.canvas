@@ -5,7 +5,7 @@
 		{"id":"3d94248264023b50","type":"text","text":"- 实战作业（分前后端）\n\n    \n    前端：使用 nextjs最新版本 、 [wagmi](https://wagmi.sh/react/getting-started)、  [rainbowkit](https://www.rainbowkit.com/zh-CN/docs/introduction)实现一个基础的钱包连接，用法参考文档。","x":160,"y":380,"width":880,"height":120},
 		{"id":"3973f74a37013ad3","type":"text","text":"- 实战作业2（分前后端）\n\n    前端：\n    \n    搭建一个基于最新版本 nextjs 与 wagmi 的前端脚手架，并实现连接 okx(btc网络) 与 unisat 钱包的逻辑。\n    \n    注意不能使用 rainbowkit 。自己写钱包连接按钮与选择样式，实现钱包连接逻辑，具体参考 okx 与 unisat 的开发者文档。","x":160,"y":540,"width":880,"height":180},
 		{"id":"10f3f583c66027ba","type":"text","text":"- 实战作业 3\n\n    后端作业：实现NFT 合约（foundry 课程 150-172）\n    \n    前端作业：实现签名脚本以及钱包签名登陆 参考\n     [https://github.com/WTFAcademy/WTF-Ethers/tree/main/26_EIP712](https://github.com/WTFAcademy/WTF-Ethers/tree/main/26_EIP712) [https://github.com/WTFAcademy/WTF-Ethers/tree/main/ET02_SignInWithEthereum](https://github.com/WTFAcademy/WTF-Ethers/tree/main/ET02_SignInWithEthereum)","x":160,"y":770,"width":880,"height":200},
-		{"id":"6087505c70a7ebd1","type":"text","text":"[作业文档](https://grayjiang.notion.site/All-In-Web3-d595d9e5cff74c2a88b32d197a787158)\n ","x":160,"y":-200,"width":140,"height":50},
+		{"id":"6087505c70a7ebd1","type":"text","text":"[作业文档](https://grayjiang.notion.site/All-In-Web3-d595d9e5cff74c2a88b32d197a787158)\n ","x":160,"y":-200,"width":220,"height":60},
 		{"id":"e225a32c337bc486","type":"text","text":"React","x":-240,"y":90,"width":250,"height":60},
 		{"id":"63d8f6b1f862332a","type":"text","text":"Next.js","x":-240,"y":250,"width":250,"height":60},
 		{"id":"530e4cc5d675f9ae","type":"text","text":"solidity(基本语法)","x":-240,"y":410,"width":250,"height":60},
