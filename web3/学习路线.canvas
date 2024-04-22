@@ -5,22 +5,22 @@
 		{"id":"3d94248264023b50","type":"text","text":"- 实战作业（分前后端）\n\n    \n    前端：使用 nextjs最新版本 、 [wagmi](https://wagmi.sh/react/getting-started)、  [rainbowkit](https://www.rainbowkit.com/zh-CN/docs/introduction)实现一个基础的钱包连接，用法参考文档。","x":160,"y":380,"width":880,"height":120},
 		{"id":"3973f74a37013ad3","type":"text","text":"- 实战作业2（分前后端）\n\n    前端：\n    \n    搭建一个基于最新版本 nextjs 与 wagmi 的前端脚手架，并实现连接 okx(btc网络) 与 unisat 钱包的逻辑。\n    \n    注意不能使用 rainbowkit 。自己写钱包连接按钮与选择样式，实现钱包连接逻辑，具体参考 okx 与 unisat 的开发者文档。","x":160,"y":540,"width":880,"height":180},
 		{"id":"10f3f583c66027ba","type":"text","text":"- 实战作业 3\n\n    后端作业：实现NFT 合约（foundry 课程 150-172）\n    \n    前端作业：实现签名脚本以及钱包签名登陆 参考\n     [https://github.com/WTFAcademy/WTF-Ethers/tree/main/26_EIP712](https://github.com/WTFAcademy/WTF-Ethers/tree/main/26_EIP712) [https://github.com/WTFAcademy/WTF-Ethers/tree/main/ET02_SignInWithEthereum](https://github.com/WTFAcademy/WTF-Ethers/tree/main/ET02_SignInWithEthereum)","x":160,"y":770,"width":880,"height":200},
-		{"id":"6087505c70a7ebd1","type":"text","text":"[作业文档](https://grayjiang.notion.site/All-In-Web3-d595d9e5cff74c2a88b32d197a787158)\n ","x":160,"y":-200,"width":140,"height":50},
+		{"id":"6087505c70a7ebd1","type":"text","text":"[作业文档](https://grayjiang.notion.site/All-In-Web3-d595d9e5cff74c2a88b32d197a787158)\n ","x":160,"y":-200,"width":220,"height":60},
 		{"id":"e225a32c337bc486","type":"text","text":"React","x":-240,"y":90,"width":250,"height":60},
 		{"id":"63d8f6b1f862332a","type":"text","text":"Next.js","x":-240,"y":250,"width":250,"height":60},
 		{"id":"530e4cc5d675f9ae","type":"text","text":"solidity(基本语法)","x":-240,"y":410,"width":250,"height":60},
 		{"id":"02106f731c71717d","type":"text","text":"[ethers.js](https://learnblockchain.cn/ethers_v5/)","x":-240,"y":570,"width":250,"height":60},
-		{"id":"c818737842d4d07e","x":-400,"y":190,"width":120,"height":60,"type":"text","text":"tailwindcss"}
+		{"id":"c818737842d4d07e","type":"text","text":"tailwindcss","x":-440,"y":190,"width":160,"height":50}
 	],
 	"edges":[
-		{"id":"9e12cbda6ae019d9","fromNode":"e225a32c337bc486","fromSide":"right","toNode":"63d8f6b1f862332a","toSide":"left"},
-		{"id":"6b65e05fa89fd372","fromNode":"63d8f6b1f862332a","fromSide":"right","toNode":"530e4cc5d675f9ae","toSide":"left"},
-		{"id":"9c0a90fbbc9d4715","fromNode":"530e4cc5d675f9ae","fromSide":"right","toNode":"02106f731c71717d","toSide":"left"},
 		{"id":"118265be689f93ac","fromNode":"530e4cc5d675f9ae","fromSide":"right","toNode":"281f51ac6247b267","toSide":"left"},
 		{"id":"0beb52b77cbcfdf6","fromNode":"530e4cc5d675f9ae","fromSide":"right","toNode":"d52d6e5f6f3fb617","toSide":"left"},
 		{"id":"384943001a06b143","fromNode":"530e4cc5d675f9ae","fromSide":"right","toNode":"3d94248264023b50","toSide":"left"},
 		{"id":"5df2a8c3f73a3c5f","fromNode":"530e4cc5d675f9ae","fromSide":"right","toNode":"3973f74a37013ad3","toSide":"left"},
 		{"id":"5d0aed7c6517c523","fromNode":"530e4cc5d675f9ae","fromSide":"right","toNode":"10f3f583c66027ba","toSide":"left"},
-		{"id":"6958d9aa7e96f34c","fromNode":"c818737842d4d07e","fromSide":"right","toNode":"63d8f6b1f862332a","toSide":"left"}
+		{"id":"6958d9aa7e96f34c","fromNode":"c818737842d4d07e","fromSide":"right","toNode":"63d8f6b1f862332a","toSide":"left"},
+		{"id":"ae8ba8fbf07c631d","fromNode":"e225a32c337bc486","fromSide":"bottom","toNode":"63d8f6b1f862332a","toSide":"top"},
+		{"id":"3de39c7140ad9ac4","fromNode":"63d8f6b1f862332a","fromSide":"bottom","toNode":"530e4cc5d675f9ae","toSide":"top"},
+		{"id":"22b5384be384f06a","fromNode":"530e4cc5d675f9ae","fromSide":"bottom","toNode":"02106f731c71717d","toSide":"top"}
 	]
 }

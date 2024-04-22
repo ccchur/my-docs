@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "40dfeb20c583d8f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web3/学习进度.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,13 +160,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4611c8915769f674",
+  "active": "40dfeb20c583d8f4",
   "lastOpenFiles": [
+    "web3/BTC密码学.md",
+    "conflict-files-obsidian-git.md",
     "web3/学习进度.md",
     "web3/学习路线.canvas",
     "Pasted image 20240419163949.png",
-    "conflict-files-obsidian-git.md",
-    "web3/BTC密码学.md",
     "灵感/小说.md",
     "web3",
     "灵感",
