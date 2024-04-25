@@ -23,14 +23,11 @@
             "id": "40dfeb20c583d8f4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "web3/学习路线.canvas",
-                "viewState": {
-                  "x": 539.6799965263513,
-                  "y": 21.343124110547084,
-                  "zoom": -0.03936096332508254
-                }
+                "file": "web3/学习进度.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -101,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web3/学习路线.canvas",
+                "file": "web3/学习进度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web3/学习路线.canvas",
+                "file": "web3/学习进度.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web3/学习路线.canvas"
+                "file": "web3/学习进度.md"
               }
             }
           }
@@ -165,8 +162,8 @@
   },
   "active": "40dfeb20c583d8f4",
   "lastOpenFiles": [
-    "web3/学习进度.md",
     "web3/学习路线.canvas",
+    "web3/学习进度.md",
     "web3/BTC密码学.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20240419163949.png",
