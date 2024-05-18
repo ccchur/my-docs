@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UI相关/设计规范.md",
+                "file": "技巧工具/Obsidian配置PicGo-core.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UI相关/设计规范.md",
+                "file": "技巧工具/Obsidian配置PicGo-core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UI相关/设计规范.md",
+                "file": "技巧工具/Obsidian配置PicGo-core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UI相关/设计规范.md"
+                "file": "技巧工具/Obsidian配置PicGo-core.md"
               }
             }
           }
@@ -165,10 +165,10 @@
   },
   "active": "63b179d4068d0f42",
   "lastOpenFiles": [
+    "UI相关/设计规范.md",
     "web3/学习路线.canvas",
     "conflict-files-obsidian-git.md",
     "2024-05-18.md",
-    "UI相关/设计规范.md",
     "UI相关",
     "web3/学习进度.md",
     "web3/BTC密码学.md",
