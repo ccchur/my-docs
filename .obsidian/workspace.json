@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技巧工具/Obsidian配置PicGo-core.md",
+                "file": "UI相关/设计规范.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技巧工具/Obsidian配置PicGo-core.md",
+                "file": "UI相关/设计规范.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技巧工具/Obsidian配置PicGo-core.md",
+                "file": "UI相关/设计规范.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技巧工具/Obsidian配置PicGo-core.md"
+                "file": "UI相关/设计规范.md"
               }
             }
           }
@@ -165,6 +165,7 @@
   },
   "active": "63b179d4068d0f42",
   "lastOpenFiles": [
+    "技巧工具/Obsidian配置PicGo-core.md",
     "UI相关/设计规范.md",
     "web3/学习路线.canvas",
     "conflict-files-obsidian-git.md",
@@ -179,7 +180,6 @@
     "README.md",
     "生活思考/机会与风险.md",
     "生活思考",
-    "机会与风险.md",
-    "技巧工具/Obsidian配置PicGo-core.md"
+    "机会与风险.md"
   ]
 }
