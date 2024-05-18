@@ -15,14 +15,42 @@
               "state": {
                 "file": "web3/学习路线.canvas",
                 "viewState": {
-                  "x": 87.69769109371434,
-                  "y": 376.6784624464872,
+                  "x": -667.3077210900357,
+                  "y": 228.69076106979458,
                   "zoom": -0.2657224271786562
                 }
               }
             }
+          },
+          {
+            "id": "63b179d4068d0f42",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "web3/学习路线.canvas",
+                "viewState": {
+                  "x": 510.2264353449425,
+                  "y": 561.1309323043109,
+                  "zoom": 0.15448225577998798
+                }
+              }
+            }
+          },
+          {
+            "id": "d31ae49a6c54a188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UI相关/设计规范.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web3/学习路线.canvas",
+                "file": "UI相关/设计规范.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web3/学习路线.canvas",
+                "file": "UI相关/设计规范.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web3/学习路线.canvas"
+                "file": "UI相关/设计规范.md"
               }
             }
           }
@@ -150,9 +178,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6cfe33f0f4abbbef",
+  "active": "d31ae49a6c54a188",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "UI相关/设计规范.md",
+    "UI相关",
     "web3/学习路线.canvas",
     "web3/学习进度.md",
     "web3/BTC密码学.md",
