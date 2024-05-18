@@ -30,27 +30,15 @@
               "state": {
                 "file": "web3/学习路线.canvas",
                 "viewState": {
-                  "x": 510.2264353449425,
-                  "y": 561.1309323043109,
-                  "zoom": 0.15448225577998798
+                  "x": 551.5673289183223,
+                  "y": 855.7902869757174,
+                  "zoom": -0.845517744220012
                 }
-              }
-            }
-          },
-          {
-            "id": "d31ae49a6c54a188",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UI相关/设计规范.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UI相关/设计规范.md",
+                "file": "web3/学习路线.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UI相关/设计规范.md",
+                "file": "web3/学习路线.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UI相关/设计规范.md"
+                "file": "web3/学习路线.canvas"
               }
             }
           }
@@ -178,12 +166,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d31ae49a6c54a188",
+  "active": "63b179d4068d0f42",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "web3/学习路线.canvas",
+    "2024-05-18.md",
     "UI相关/设计规范.md",
     "UI相关",
-    "web3/学习路线.canvas",
     "web3/学习进度.md",
     "web3/BTC密码学.md",
     "灵感/小说.md",
