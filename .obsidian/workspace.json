@@ -26,14 +26,11 @@
             "id": "63b179d4068d0f42",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "web3/学习路线.canvas",
-                "viewState": {
-                  "x": 551.5673289183223,
-                  "y": 855.7902869757174,
-                  "zoom": -0.845517744220012
-                }
+                "file": "UI相关/设计规范.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web3/学习路线.canvas",
+                "file": "UI相关/设计规范.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web3/学习路线.canvas",
+                "file": "UI相关/设计规范.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web3/学习路线.canvas"
+                "file": "UI相关/设计规范.md"
               }
             }
           }
@@ -168,8 +165,8 @@
   },
   "active": "63b179d4068d0f42",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "web3/学习路线.canvas",
+    "conflict-files-obsidian-git.md",
     "2024-05-18.md",
     "UI相关/设计规范.md",
     "UI相关",
