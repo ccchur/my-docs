@@ -26,11 +26,14 @@
             "id": "63b179d4068d0f42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "UI相关/设计规范.md",
-                "mode": "source",
-                "source": false
+                "file": "web3/学习路线.canvas",
+                "viewState": {
+                  "x": 300,
+                  "y": 385,
+                  "zoom": -0.845517744220012
+                }
               }
             }
           }
@@ -101,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UI相关/设计规范.md",
+                "file": "web3/学习路线.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UI相关/设计规范.md",
+                "file": "web3/学习路线.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UI相关/设计规范.md"
+                "file": "web3/学习路线.canvas"
               }
             }
           }
@@ -165,8 +168,8 @@
   },
   "active": "63b179d4068d0f42",
   "lastOpenFiles": [
-    "技巧工具/Obsidian配置PicGo-core.md",
     "UI相关/设计规范.md",
+    "技巧工具/Obsidian配置PicGo-core.md",
     "web3/学习路线.canvas",
     "conflict-files-obsidian-git.md",
     "2024-05-18.md",
