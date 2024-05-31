@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UI相关/设计规范.md",
+                "file": "web3/未命名/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UI相关/设计规范.md",
+                "file": "web3/未命名/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UI相关/设计规范.md",
+                "file": "web3/未命名/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UI相关/设计规范.md"
+                "file": "web3/未命名/未命名.md"
               }
             }
           }
@@ -172,11 +172,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c5c2b9f0a2814646",
+  "active": "2860f34db18d4e73",
   "lastOpenFiles": [
+    "UI相关/设计规范.md",
+    "web3/未命名/未命名.md",
     "web3/未命名",
     "conflict-files-obsidian-git.md",
-    "UI相关/设计规范.md",
     "web3/学习进度.md",
     "UI相关",
     "web3/学习路线.canvas",
