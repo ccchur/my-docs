@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web3/未命名/未命名.md",
+                "file": "web3/学习记录/wagmi 连接.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web3/未命名/未命名.md",
+                "file": "web3/学习记录/wagmi 连接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web3/未命名/未命名.md",
+                "file": "web3/学习记录/wagmi 连接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web3/未命名/未命名.md"
+                "file": "web3/学习记录/wagmi 连接.md"
               }
             }
           }
@@ -175,8 +175,8 @@
   "active": "2860f34db18d4e73",
   "lastOpenFiles": [
     "UI相关/设计规范.md",
-    "web3/未命名/未命名.md",
-    "web3/未命名",
+    "web3/学习记录/wagmi 连接.md",
+    "web3/学习记录",
     "conflict-files-obsidian-git.md",
     "web3/学习进度.md",
     "UI相关",
