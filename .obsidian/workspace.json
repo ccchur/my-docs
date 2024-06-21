@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UI相关/设计规范.md",
+                "file": "项目/todolist by next/功能设计.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UI相关/设计规范.md",
+                "file": "项目/todolist by next/功能设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UI相关/设计规范.md",
+                "file": "项目/todolist by next/功能设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UI相关/设计规范.md"
+                "file": "项目/todolist by next/功能设计.md"
               }
             }
           }
@@ -168,13 +168,17 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
   "active": "2860f34db18d4e73",
   "lastOpenFiles": [
-    "web3/学习记录/wagmi 连接.md",
     "UI相关/设计规范.md",
+    "项目/todolist by next/功能设计.md",
+    "项目/todolist by next",
+    "项目",
+    "web3/学习记录/wagmi 连接.md",
     "web3/学习记录",
     "conflict-files-obsidian-git.md",
     "web3/学习进度.md",
