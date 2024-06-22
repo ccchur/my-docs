@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d54780bae8ebd1b4",
+        "id": "3851287ae08a1344",
         "type": "tabs",
         "children": [
           {
-            "id": "2860f34db18d4e73",
+            "id": "6cfe33f0f4abbbef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "UI相关/设计规范.md",
-                "mode": "source",
-                "source": false
+                "file": "web3/学习路线.canvas",
+                "viewState": {
+                  "x": -667.3077210900357,
+                  "y": 228.69076106979458,
+                  "zoom": -0.2657224271786562
+                }
               }
             }
           }
@@ -69,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 200
   },
   "right": {
     "id": "3f295fa673ec3346",
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UI相关/设计规范.md",
+                "file": "web3/学习路线.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UI相关/设计规范.md",
+                "file": "web3/学习路线.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UI相关/设计规范.md"
+                "file": "web3/学习路线.canvas"
               }
             }
           }
@@ -138,38 +141,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-full-calendar:Open Full Calendar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "2860f34db18d4e73",
+  "active": "6cfe33f0f4abbbef",
   "lastOpenFiles": [
-    "项目/todolist by next/未命名.canvas",
-    "UI相关/设计规范.md",
-    "项目/todolist by next/功能设计.md",
-    "未命名.canvas",
-    "项目/todolist by next",
-    "项目",
     "web3/学习记录/wagmi 连接.md",
     "web3/学习记录",
-    "conflict-files-obsidian-git.md",
-    "web3/学习进度.md",
-    "UI相关",
+    "UI相关/设计规范.md",
+    "技巧工具/Obsidian配置PicGo-core.md",
     "web3/学习路线.canvas",
+    "conflict-files-obsidian-git.md",
+    "2024-05-18.md",
+    "UI相关",
+    "web3/学习进度.md",
     "web3/BTC密码学.md",
-    "Pasted image 20240419163949.png",
     "灵感/小说.md",
     "web3",
+    "未命名.canvas",
     "灵感",
     "README.md",
     "生活思考/机会与风险.md",
     "生活思考",
-    "机会与风险.md",
-    "技巧工具/Obsidian配置PicGo-core.md"
+    "机会与风险.md"
   ]
 }
