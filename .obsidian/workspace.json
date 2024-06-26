@@ -11,14 +11,11 @@
             "id": "6cfe33f0f4abbbef",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "web3/学习记录/web3 相关概念.canvas",
-                "viewState": {
-                  "x": -728,
-                  "y": -314,
-                  "zoom": -1
-                }
+                "file": "web3/学习记录/web3 相关概念.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web3/学习记录/web3 相关概念.canvas",
+                "file": "web3/学习记录/web3 相关概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web3/学习记录/web3 相关概念.canvas",
+                "file": "web3/学习记录/web3 相关概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web3/学习记录/web3 相关概念.canvas"
+                "file": "web3/学习记录/web3 相关概念.md"
               }
             }
           }
@@ -152,8 +149,8 @@
   },
   "active": "6cfe33f0f4abbbef",
   "lastOpenFiles": [
-    "web3/学习记录/web3 相关概念.md",
     "web3/学习记录/web3 相关概念.canvas",
+    "web3/学习记录/web3 相关概念.md",
     "web3/学习进度.md",
     "web3/学习路线.canvas",
     "web3/学习记录",
