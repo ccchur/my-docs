@@ -1,9 +1,9 @@
 {
 	"nodes":[
 		{"id":"8e333801d910185d","x":-440,"y":-60,"width":950,"height":260,"type":"group","label":"未命名组"},
-		{"id":"ad3cd34699636e05","x":-430,"y":260,"width":640,"height":240,"type":"group","label":"未命名组"},
-		{"id":"ebfb609e36bf67af","x":-410,"y":280,"width":250,"height":200,"color":"4","type":"text","text":"### nft contract:\n\n- mint\n    \n- view owned nft\n    \n- allow transactions"},
-		{"id":"b2795a224d7531d4","x":-100,"y":280,"width":290,"height":200,"color":"4","type":"text","text":"### nft market contract:\n\n- list\n    \n- delist\n    \n- buy"},
+		{"id":"ad3cd34699636e05","x":-430,"y":260,"width":640,"height":280,"type":"group","label":"未命名组"},
+		{"id":"ebfb609e36bf67af","x":-410,"y":280,"width":250,"height":220,"color":"4","type":"text","text":"### nft contract:\n\n- mint\n    \n- view owned nft\n    \n- allow transactions"},
+		{"id":"b2795a224d7531d4","x":-100,"y":280,"width":290,"height":220,"color":"4","type":"text","text":"### nft market contract:\n\n- show listed nft \n- show unlist nft\n- list\n- delist\n- buy"},
 		{"id":"15bceb8a4371ab6a","x":-70,"y":-40,"width":250,"height":220,"type":"text","text":"### user:\n\n- Unlisted NFT\n    \n- listed NFT\n    \n- listed\n    \n- delist"},
 		{"id":"67ac4ce02105741c","x":240,"y":-40,"width":250,"height":220,"type":"text","text":"### NFT:\n\n- NFT Contract\n    \n- Token ID\n    \n- price\n    \n- seller address"},
 		{"id":"606a404883d75290","x":-420,"y":-40,"width":250,"height":220,"type":"text","text":"### public:\n\n- login\n    \n- check account balance"},
