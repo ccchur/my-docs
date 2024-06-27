@@ -1,10 +1,17 @@
 {
 	"nodes":[
-		{"id":"606a404883d75290","x":-410,"y":-680,"width":250,"height":220,"type":"text","text":"### public:\n\n- login\n    \n- check account balance"},
-		{"id":"ebfb609e36bf67af","x":-325,"y":-300,"width":250,"height":200,"type":"text","text":"### nft contract:\n\n- mint\n    \n- view owned nft\n    \n- allow transactions"},
-		{"id":"67ac4ce02105741c","x":160,"y":-680,"width":250,"height":220,"type":"text","text":"### NFT:\n\n- NFT Contract\n    \n- Token ID\n    \n- price\n    \n- seller address"},
-		{"id":"b2795a224d7531d4","x":-25,"y":-300,"width":290,"height":200,"type":"text","text":"### nft market contract:\n\n- list\n    \n- delist\n    \n- buy"},
-		{"id":"15bceb8a4371ab6a","x":-120,"y":-680,"width":250,"height":220,"type":"text","text":"### user:\n\n- Unlisted NFT\n    \n- listed NFT\n    \n- listed\n    \n- delist"}
+		{"id":"8e333801d910185d","x":-440,"y":-60,"width":950,"height":260,"type":"group","label":"未命名组"},
+		{"id":"ad3cd34699636e05","x":-430,"y":260,"width":640,"height":240,"type":"group","label":"未命名组"},
+		{"id":"ebfb609e36bf67af","x":-410,"y":280,"width":250,"height":200,"color":"4","type":"text","text":"### nft contract:\n\n- mint\n    \n- view owned nft\n    \n- allow transactions"},
+		{"id":"b2795a224d7531d4","x":-100,"y":280,"width":290,"height":200,"color":"4","type":"text","text":"### nft market contract:\n\n- list\n    \n- delist\n    \n- buy"},
+		{"id":"15bceb8a4371ab6a","x":-70,"y":-40,"width":250,"height":220,"type":"text","text":"### user:\n\n- Unlisted NFT\n    \n- listed NFT\n    \n- listed\n    \n- delist"},
+		{"id":"67ac4ce02105741c","x":240,"y":-40,"width":250,"height":220,"type":"text","text":"### NFT:\n\n- NFT Contract\n    \n- Token ID\n    \n- price\n    \n- seller address"},
+		{"id":"606a404883d75290","x":-420,"y":-40,"width":250,"height":220,"type":"text","text":"### public:\n\n- login\n    \n- check account balance"},
+		{"id":"f303b9f7682e6e94","x":-170,"y":680,"width":250,"height":60,"type":"text","text":"list"},
+		{"id":"74d40cd326ac6c83","x":-170,"y":840,"width":250,"height":60,"type":"text","text":"mint"},
+		{"id":"41159b54f786ecb9","x":-170,"y":1000,"width":250,"height":60,"type":"text","text":"approve"},
+		{"id":"f9dd52073f3ac189","x":-170,"y":1160,"width":250,"height":60,"type":"text","text":"list"},
+		{"id":"aa099313d32e9bfa","x":-170,"y":1320,"width":250,"height":60,"type":"text","text":"buy"}
 	],
 	"edges":[]
 }

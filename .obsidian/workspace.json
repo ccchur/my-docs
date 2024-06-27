@@ -15,23 +15,14 @@
               "state": {
                 "file": "nft market.canvas",
                 "viewState": {
-                  "x": 40.505524489771155,
-                  "y": -308.5309262491701,
+                  "x": 38.244411960436594,
+                  "y": 1020.3191441223651,
                   "zoom": -1.1102230246251565e-16
                 }
               }
             }
-          },
-          {
-            "id": "c3a58aefa372a077",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,10 +150,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c3a58aefa372a077",
+  "active": "2860f34db18d4e73",
   "lastOpenFiles": [
-    "2024-06-27.md",
+    "calendar/2024-06-27 nft market app.md",
     "nft market.canvas",
+    "calendar",
+    "2024-06-27.md",
     "UI相关/设计规范.md",
     "web3/学习记录/web3 相关概念.md",
     "web3/学习记录/web3 相关概念.canvas",

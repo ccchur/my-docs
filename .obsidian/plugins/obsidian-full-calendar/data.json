@@ -1,9 +1,15 @@
 {
-  "calendarSources": [],
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "hsl(258, 88%, 66%)",
+      "directory": "calendar"
+    }
+  ],
   "defaultCalendar": 0,
   "firstDay": 0,
   "initialView": {
-    "desktop": "timeGridDay",
+    "desktop": "dayGridMonth",
     "mobile": "timeGrid3Days"
   },
   "timeFormat24h": false
