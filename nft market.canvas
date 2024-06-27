@@ -7,11 +7,18 @@
 		{"id":"15bceb8a4371ab6a","x":-70,"y":-40,"width":250,"height":220,"type":"text","text":"### user:\n\n- Unlisted NFT\n    \n- listed NFT\n    \n- listed\n    \n- delist"},
 		{"id":"67ac4ce02105741c","x":240,"y":-40,"width":250,"height":220,"type":"text","text":"### NFT:\n\n- NFT Contract\n    \n- Token ID\n    \n- price\n    \n- seller address"},
 		{"id":"606a404883d75290","x":-420,"y":-40,"width":250,"height":220,"type":"text","text":"### public:\n\n- login\n    \n- check account balance"},
-		{"id":"f303b9f7682e6e94","x":-170,"y":680,"width":250,"height":60,"type":"text","text":"list"},
-		{"id":"74d40cd326ac6c83","x":-170,"y":840,"width":250,"height":60,"type":"text","text":"mint"},
-		{"id":"41159b54f786ecb9","x":-170,"y":1000,"width":250,"height":60,"type":"text","text":"approve"},
-		{"id":"f9dd52073f3ac189","x":-170,"y":1160,"width":250,"height":60,"type":"text","text":"list"},
-		{"id":"aa099313d32e9bfa","x":-170,"y":1320,"width":250,"height":60,"type":"text","text":"buy"}
+		{"id":"74d40cd326ac6c83","x":-170,"y":840,"width":250,"height":60,"type":"text","text":"mint：生成"},
+		{"id":"41159b54f786ecb9","x":-170,"y":1000,"width":250,"height":60,"type":"text","text":"approve：允许售卖"},
+		{"id":"f9dd52073f3ac189","x":-170,"y":1160,"width":250,"height":60,"type":"text","text":"list：上架"},
+		{"id":"0b5e3c49b0d3693e","x":-520,"y":1000,"width":250,"height":60,"type":"text","text":"未上架nft"},
+		{"id":"9a6cbd0ec7451406","x":200,"y":1320,"width":250,"height":60,"type":"text","text":"已上架nft"},
+		{"id":"aa099313d32e9bfa","x":-170,"y":1480,"width":250,"height":60,"type":"text","text":"buy：买卖"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"4fc01d59004f51a9","fromNode":"74d40cd326ac6c83","fromSide":"bottom","toNode":"41159b54f786ecb9","toSide":"top"},
+		{"id":"25d6848c02f2fd29","fromNode":"41159b54f786ecb9","fromSide":"bottom","toNode":"f9dd52073f3ac189","toSide":"top"},
+		{"id":"44e1dd1249af7701","fromNode":"74d40cd326ac6c83","fromSide":"bottom","toNode":"0b5e3c49b0d3693e","toSide":"top"},
+		{"id":"25abac493582072b","fromNode":"f9dd52073f3ac189","fromSide":"bottom","toNode":"9a6cbd0ec7451406","toSide":"top"},
+		{"id":"b6e5da3a47b84adf","fromNode":"9a6cbd0ec7451406","fromSide":"bottom","toNode":"aa099313d32e9bfa","toSide":"top"}
+	]
 }
