@@ -1,4 +1,6 @@
 {
   "autoLayoutDefault": true,
-  "autoLayoutEnabledFor": {}
+  "autoLayoutEnabledFor": {
+    "未命名.canvas": false
+  }
 }
