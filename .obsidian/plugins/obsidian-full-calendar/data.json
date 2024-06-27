@@ -1,15 +1,9 @@
 {
-  "calendarSources": [
-    {
-      "type": "dailynote",
-      "color": "hsl(208, 64%, 49%)",
-      "heading": "学习记录"
-    }
-  ],
+  "calendarSources": [],
   "defaultCalendar": 0,
   "firstDay": 0,
   "initialView": {
-    "desktop": "timeGridWeek",
+    "desktop": "timeGridDay",
     "mobile": "timeGrid3Days"
   },
   "timeFormat24h": false

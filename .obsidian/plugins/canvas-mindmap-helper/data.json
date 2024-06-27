@@ -1,6 +1,7 @@
 {
   "autoLayoutDefault": true,
   "autoLayoutEnabledFor": {
-    "未命名.canvas": false
+    "未命名.canvas": false,
+    "nft market.canvas": false
   }
 }
