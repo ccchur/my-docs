@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Array",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,7 +148,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "2860f34db18d4e73",
+  "active": "2f793ca45f584ade",
   "lastOpenFiles": [
     "web3/open build bootcamp/task4/nft market.canvas",
     "JS/数组方法.md",
