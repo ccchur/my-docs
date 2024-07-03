@@ -21,17 +21,8 @@
                 }
               }
             }
-          },
-          {
-            "id": "48cee643b2e1304e",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +150,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "48cee643b2e1304e",
+  "active": "2860f34db18d4e73",
   "lastOpenFiles": [
     "web3/open build bootcamp/task4",
     "web3/open build bootcamp",
