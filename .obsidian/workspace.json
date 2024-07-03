@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#浅拷贝",
+                "query": "tag:#不改变原数组",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,10 +147,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "2f793ca45f584ade",
+  "active": "2860f34db18d4e73",
   "lastOpenFiles": [
-    "web3/open build bootcamp/task4/nft market.canvas",
+    "模板/数组模板.md",
     "JS/数组方法.md",
+    "模板",
+    "web3/open build bootcamp/task4/nft market.canvas",
     "JS",
     "web3/open build bootcamp/task4",
     "web3/open build bootcamp",
@@ -175,7 +176,6 @@
     "Pasted image 20240419163949.png",
     "灵感/小说.md",
     "web3",
-    "灵感",
     "README.md",
     "生活思考/机会与风险.md",
     "机会与风险.md",
