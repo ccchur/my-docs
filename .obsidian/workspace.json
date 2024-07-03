@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "right": {
     "id": "3f295fa673ec3346",
@@ -148,7 +147,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "0ac35d086fc123f4",
+  "active": "2860f34db18d4e73",
   "lastOpenFiles": [
     "Setting/template/CSS color.md",
     "JS/数组方法.md",
