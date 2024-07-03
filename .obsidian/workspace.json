@@ -11,14 +11,11 @@
             "id": "2860f34db18d4e73",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "web3/open build bootcamp/task4/nft market.canvas",
-                "viewState": {
-                  "x": 53.76152963500323,
-                  "y": 1187.9900440594563,
-                  "zoom": -0.3333333333333334
-                }
+                "file": "JS/数组方法.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web3/open build bootcamp/task4/nft market.canvas",
+                "file": "JS/数组方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web3/open build bootcamp/task4/nft market.canvas",
+                "file": "JS/数组方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web3/open build bootcamp/task4/nft market.canvas"
+                "file": "JS/数组方法.md"
               }
             }
           }
@@ -152,10 +149,12 @@
   },
   "active": "2860f34db18d4e73",
   "lastOpenFiles": [
+    "web3/open build bootcamp/task4/nft market.canvas",
+    "JS/数组方法.md",
+    "JS",
     "web3/open build bootcamp/task4",
     "web3/open build bootcamp",
     "calendar/2024-06-28 nft market app.md",
-    "web3/open build bootcamp/task4/nft market.canvas",
     "calendar",
     "2024-06-27.md",
     "UI相关/设计规范.md",
@@ -178,7 +177,6 @@
     "灵感",
     "README.md",
     "生活思考/机会与风险.md",
-    "生活思考",
     "机会与风险.md",
     "技巧工具/Obsidian配置PicGo-core.md"
   ]
