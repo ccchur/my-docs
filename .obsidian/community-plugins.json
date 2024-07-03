@@ -1,9 +1,9 @@
 [
-  "obsidian-git",
   "obsidian-image-auto-upload-plugin",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-full-calendar",
   "canvas-mindmap-helper",
   "colored-tags",
-  "obsidian-emoji-toolbar"
+  "obsidian-emoji-toolbar",
+  "obsidian-git"
 ]
