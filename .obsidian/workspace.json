@@ -11,11 +11,14 @@
             "id": "b260a9e3b2d95871",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "JS/数组方法.md",
-                "mode": "source",
-                "source": false
+                "file": "career/curriculum vitae.canvas",
+                "viewState": {
+                  "x": 135.3258566802407,
+                  "y": 582.6576029569677,
+                  "zoom": -0.6666666666666666
+                }
               }
             }
           }
@@ -50,7 +53,7 @@
               "state": {
                 "query": "tag:#浅拷贝",
                 "matchingCase": false,
-                "explainSearch": true,
+                "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
@@ -69,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3f295fa673ec3346",
@@ -85,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/数组方法.md",
+                "file": "career/curriculum vitae.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/数组方法.md",
+                "file": "career/curriculum vitae.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +118,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -125,16 +129,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/数组方法.md"
+                "file": "career/curriculum vitae.canvas"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 253.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,8 +154,12 @@
   },
   "active": "b260a9e3b2d95871",
   "lastOpenFiles": [
-    "技巧工具/Obsidian配置PicGo-core.md",
     "JS/数组方法.md",
+    "career/curriculum vitae.canvas",
+    "career/未命名.md",
+    "career",
+    "UI相关/设计规范.md",
+    "技巧工具/Obsidian配置PicGo-core.md",
     "Setting/template/CSS color.md",
     "Setting/template/Array.md",
     "Setting/CSS",
@@ -163,7 +172,6 @@
     "calendar/2024-06-28 nft market app.md",
     "calendar",
     "2024-06-27.md",
-    "UI相关/设计规范.md",
     "web3/学习记录/web3 相关概念.md",
     "web3/学习记录/web3 相关概念.canvas",
     "项目/todolist by next/未命名.canvas",
@@ -171,7 +179,6 @@
     "项目/todolist by next",
     "项目",
     "web3/学习记录/wagmi 连接.md",
-    "web3/学习记录",
     "conflict-files-obsidian-git.md",
     "web3/学习进度.md",
     "web3/学习路线.canvas",
