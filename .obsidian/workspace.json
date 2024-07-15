@@ -11,18 +11,36 @@
             "id": "b260a9e3b2d95871",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "career/curriculum vitae.canvas",
-                "viewState": {
-                  "x": 135.3258566802407,
-                  "y": 582.6576029569677,
-                  "zoom": -0.6666666666666666
-                }
+                "file": "web3/学习进度.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "473b556f3f2a570e",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f076502fcc207492",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web3/思维导图-区块链概念.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3f295fa673ec3346",
@@ -89,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "career/curriculum vitae.canvas",
+                "file": "web3/思维导图-区块链概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "career/curriculum vitae.canvas",
+                "file": "web3/思维导图-区块链概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "career/curriculum vitae.canvas"
+                "file": "web3/思维导图-区块链概念.md"
               }
             }
           }
@@ -152,10 +169,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b260a9e3b2d95871",
+  "active": "f076502fcc207492",
   "lastOpenFiles": [
-    "JS/数组方法.md",
+    "web3/学习进度.md",
+    "web3/思维导图-区块链概念.md",
+    "calendar/2024-07-15 区块链基本概念.md",
+    "web3/open build bootcamp/task4/nft market.canvas",
     "career/curriculum vitae.canvas",
+    "web3/学习记录/web3 相关概念.md",
+    "JS/数组方法.md",
     "career/未命名.md",
     "career",
     "UI相关/设计规范.md",
@@ -165,14 +187,12 @@
     "Setting/CSS",
     "Setting",
     "Setting/template",
-    "web3/open build bootcamp/task4/nft market.canvas",
     "JS",
     "web3/open build bootcamp/task4",
     "web3/open build bootcamp",
     "calendar/2024-06-28 nft market app.md",
     "calendar",
     "2024-06-27.md",
-    "web3/学习记录/web3 相关概念.md",
     "web3/学习记录/web3 相关概念.canvas",
     "项目/todolist by next/未命名.canvas",
     "项目/todolist by next/功能设计.md",
@@ -180,7 +200,6 @@
     "项目",
     "web3/学习记录/wagmi 连接.md",
     "conflict-files-obsidian-git.md",
-    "web3/学习进度.md",
     "web3/学习路线.canvas",
     "web3/BTC密码学.md",
     "Pasted image 20240419163949.png",
