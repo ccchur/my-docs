@@ -1,6 +1,9 @@
 {
   "accentColor": "",
-  "cssTheme": "",
+  "cssTheme": "Catppuccin",
   "theme": "moonstone",
-  "nativeMenus": true
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "codeblock"
+  ]
 }
