@@ -311,3 +311,54 @@ export class ChildComponent {
 ```
 
 ## 生命周期
+### React
+> 在React中，生命周期一般指的是类组件
+
+官方给出的React常用生命周期图示：
+![[React常用生命周期.png]]
+#### 常用生命周期钩子函数
+- constructor（构造时触发）
+	- 同一个组件对象只会创建一次
+	- 不能再第一次挂载到页面之前调用setState，为了避免问题，构造函数中严禁使用setState
+- render（渲染时触发）
+	- 返回一个虚拟DOM，会被挂载到虚拟DOM树中，最终渲染到页面的真实DOM中
+	- render可能不止运行一次，只要需要重新渲染，就会执行
+	- 严禁使用setState，因为可能会导致无限递归渲染
+- componpentDidMount（挂载后触发）
+	- 只会执行一次
+	- 可以使用setState
+	- 通常情况下，会设置网络请求，启动计时器等一开始需要的操作
+- componentWillUnmount（销毁前触发）
+	- 通常在该函数中销毁一些组件依赖的资源，比如计时器
+
+### Vue
+> 这里主要展示Vue 3.x的生命周期
+
+官方图示：
+![[Pasted image 20240728163338.png]]
+
+- setup() :开始创建组件之前，在beforeCreate和created之前执行。创建的是data和method
+- onBeforeMount() : 组件挂载到节点上之前执行的函数。
+- onMounted() : 组件挂载完成后执行的函数。
+- onBeforeUpdate(): 组件更新之前执行的函数。
+- onUpdated(): 组件更新完成之后执行的函数。
+- onBeforeUnmount(): 组件卸载之前执行的函数。
+- onUnmounted(): 组件卸载完成后执行的函数
+- onActivated(): 被包含在中的组件，会多出两个生命周期钩子函数。被激活时执行。
+- onDeactivated(): 比如从 A 组件，切换到 B 组件，A 组件消失时执行。
+### Angular
+
+官方解释表格：
+
+| 钩子                        | 目的和时机                                                                                                          |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| `ngOnChanges()`           | 当Angular（重新）设置数据绑定输入属性时响应。 该方法接受当前和上一属性值的`SimpleChanges`对象<br><br>当被绑定的输入属性的值发生变化时调用，首次调用一定会发生在`ngOnInit()`之前。 |
+| `ngOnInit()`              | 在Angular第一次显示数据绑定和设置指令/组件的输入属性之后，初始化指令/组件。<br><br>在第一轮`ngOnChanges()`完成之后调用，只调用**一次**。                         |
+| `ngDoCheck()`             | 检测，并在发生Angular无法或不愿意自己检测的变化时作出反应。<br><br>在每个Angular变更检测周期中调用，`ngOnChanges()`和`ngOnInit()`之后。                   |
+| `ngAfterContentInit()`    | 当把内容投影进组件之后调用。<br><br>第一次`ngDoCheck()`之后调用，只调用一次。<br><br>**只适用于组件**。                                           |
+| `ngAfterContentChecked()` | 每次完成被投影组件内容的变更检测之后调用。<br><br>`ngAfterContentInit()`和每次`ngDoCheck()`之后调用<br><br>**只适合组件**。                      |
+| `ngAfterViewInit()`       | 初始化完组件视图及其子视图之后调用。<br><br>第一次`ngAfterContentChecked()`之后调用，只调用一次。<br><br>**只适合组件**。                            |
+| `ngAfterViewChecked()`    | 每次做完组件视图和子视图的变更检测之后调用。<br><br>`ngAfterViewInit()`和每次`ngAfterContentChecked()`之后调用。<br><br>**只适合组件**。           |
+| `ngOnDestroy`             | 当Angular每次销毁指令/组件之前调用并清扫。 在这儿反订阅可观察对象和分离事件处理器，以防内存泄漏。<br><br>在Angular销毁指令/组件之前调用。                              |
+
+
