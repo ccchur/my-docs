@@ -4,5 +4,8 @@
   "canvas-mindmap-helper",
   "colored-tags",
   "obsidian-emoji-toolbar",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-quickshare",
+  "obsidian-style-settings",
+  "codeblock-customizer"
 ]
