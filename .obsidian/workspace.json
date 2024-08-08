@@ -30,9 +30,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1b81faad514fb961",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "career/curriculum vitae.canvas",
+                "viewState": {
+                  "x": 336.1690696854108,
+                  "y": 619.8480770286192,
+                  "zoom": 1.1102230246251565e-16
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React vs Vue vs Angular.md",
+                "file": "career/curriculum vitae.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React vs Vue vs Angular.md",
+                "file": "career/curriculum vitae.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React vs Vue vs Angular.md"
+                "file": "career/curriculum vitae.canvas"
               }
             }
           },
@@ -168,13 +183,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "9a2b178732617582",
+  "active": "1b81faad514fb961",
   "lastOpenFiles": [
-    "assets/img/Pasted image 20240728163338.png",
+    "RPC.md",
+    "React vs Vue vs Angular.md",
     "useState异步原因.md",
+    "assets/img/Pasted image 20240728163338.png",
     "assets/img/React常用生命周期.png",
     "assets/img",
-    "React vs Vue vs Angular.md",
     "账号密码管理APP/未命名.canvas",
     "账号密码管理APP",
     "web3/学习路线.canvas",
