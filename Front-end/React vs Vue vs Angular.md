@@ -314,7 +314,7 @@ export class ChildComponent {
 }
 ```
 
-## 生命周期
+# 生命周期
 ### React
 > 在React中，生命周期一般指的是类组件
 
