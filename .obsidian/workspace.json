@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d10d5edc5ecbcd6e",
+        "id": "af4c5d2e8f784f1b",
         "type": "tabs",
         "children": [
           {
-            "id": "4a7dc02f463360da",
+            "id": "49f77aace845f78a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front-end/React/useState异步原因.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a93b6eb7e1b9b95d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web3/学习进度.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#深拷贝",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web3/学习进度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web3/学习进度.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web3/学习进度.md"
+                "file": "未命名.canvas"
               }
             }
           },
@@ -168,40 +149,41 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a93b6eb7e1b9b95d",
+  "active": "c5c2b9f0a2814646",
   "lastOpenFiles": [
+    "career/curriculum vitae.canvas",
+    "未命名.canvas",
+    "JS/数组方法.md",
+    "账号密码管理APP/未命名.canvas",
     "web3/区块链，比特币，挖矿，去中心化.md",
+    "Setting/template/Array.md",
+    "assets/img/Pasted image 20240728163338.png",
+    "assets/img/React常用生命周期.png",
+    "Front-end/React vs Vue vs Angular.md",
+    "Front-end/React/useState异步原因.md",
+    "web3/学习进度.md",
     "assets/img/区块链技术概览及加密技术.png",
     "Front-end/React",
     "Front-end",
     "React",
-    "Front-end/React vs Vue vs Angular.md",
-    "Front-end/React/useState异步原因.md",
     "conflict-files-obsidian-git.md",
-    "账号密码管理APP/未命名.canvas",
     "账号密码管理APP",
     "assets/img/区块链概念.png",
-    "assets/img/React常用生命周期.png",
-    "assets/img/Pasted image 20240728163338.png",
     "assets/img",
     "calendar/2024-07-25 useContext.md",
     "calendar/2024-07-17 learn solidity.md",
     "web3/思维导图-区块链概念.md",
-    "web3/学习进度.md",
     "assets/区块链概念.png",
     "web3/学习路线.canvas",
     "assets",
     "calendar/2024-07-15 区块链基本概念.md",
     "web3/open build bootcamp/task4/nft market.canvas",
-    "career/curriculum vitae.canvas",
     "web3/学习记录/web3 相关概念.md",
-    "JS/数组方法.md",
     "career/未命名.md",
     "career",
     "UI相关/设计规范.md",
     "技巧工具/Obsidian配置PicGo-core.md",
     "Setting/template/CSS color.md",
-    "Setting/template/Array.md",
     "Setting/CSS",
     "Setting",
     "Setting/template",
