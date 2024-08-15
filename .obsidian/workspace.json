@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "未命名.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -149,10 +147,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c5c2b9f0a2814646",
+  "active": "49f77aace845f78a",
   "lastOpenFiles": [
-    "career/curriculum vitae.canvas",
+    "RPC.md",
+    "conflict-files-obsidian-git.md",
     "未命名.canvas",
+    "career/curriculum vitae.canvas",
     "JS/数组方法.md",
     "账号密码管理APP/未命名.canvas",
     "web3/区块链，比特币，挖矿，去中心化.md",
@@ -166,7 +166,6 @@
     "Front-end/React",
     "Front-end",
     "React",
-    "conflict-files-obsidian-git.md",
     "账号密码管理APP",
     "assets/img/区块链概念.png",
     "assets/img",
@@ -197,7 +196,6 @@
     "Pasted image 20240419163949.png",
     "灵感/小说.md",
     "README.md",
-    "生活思考/机会与风险.md",
-    "机会与风险.md"
+    "生活思考/机会与风险.md"
   ]
 }

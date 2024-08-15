@@ -1,3 +1,7 @@
+---
+quickshare-date: 2024-07-31 23:26:11
+quickshare-url: "https://noteshare.space/note/clza01ql0252301mwil96kj8l#AjNGKzLtYtMY61cHC40ifp65x2ZzlAVekvKbsppcQsU"
+---
 # 大体比较
 
 以下是React、Vue和Angular三个前端框架的主要异同点对比:
