@@ -1,13 +1,3 @@
 {
-  "accentColor": "",
-<<<<<<< HEAD
-  "cssTheme": "Maple",
-=======
-  "cssTheme": "Blue Topaz",
->>>>>>> origin/master
-  "theme": "obsidian",
-  "nativeMenus": false,
-  "enabledCssSnippets": [
-    "codeblock"
-  ]
+  "theme": "obsidian"
 }

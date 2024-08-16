@@ -11,14 +11,11 @@
             "id": "1b81faad514fb961",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "career/curriculum vitae.canvas",
-                "viewState": {
-                  "x": 336.1690696854108,
-                  "y": 61.84807702861917,
-                  "zoom": 1.1102230246251565e-16
-                }
+                "file": "灵感/童年.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "career/curriculum vitae.canvas",
+                "file": "灵感/童年.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "career/curriculum vitae.canvas",
+                "file": "灵感/童年.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "career/curriculum vitae.canvas"
+                "file": "灵感/童年.md"
               }
             }
           },
@@ -160,8 +157,9 @@
   },
   "active": "1b81faad514fb961",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "career/curriculum vitae.canvas",
+    "灵感/童年.md",
+    "conflict-files-obsidian-git.md",
     "web3/区块链，比特币，挖矿，去中心化.md",
     "calendar/2024-07-25 useContext.md",
     "calendar/2024-07-17 learn solidity.md",
@@ -204,7 +202,6 @@
     "项目/todolist by next/未命名.canvas",
     "项目/todolist by next/功能设计.md",
     "web3/学习记录/wagmi 连接.md",
-    "Pasted image 20240419163949.png",
-    "灵感/小说.md"
+    "Pasted image 20240419163949.png"
   ]
 }
