@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "af4c5d2e8f784f1b",
+        "id": "792d51644f753320",
         "type": "tabs",
         "children": [
           {
-            "id": "49f77aace845f78a",
+            "id": "a0a5729fa3303f67",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "React/小小一个prev竟有这般作用！.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "React/小小一个prev竟有这般作用！.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "React/小小一个prev竟有这般作用！.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "React/小小一个prev竟有这般作用！.md"
+              }
             }
           },
           {
@@ -134,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,21 +156,28 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "49f77aace845f78a",
+  "active": "a0a5729fa3303f67",
   "lastOpenFiles": [
+    "JS/JavaScript 数组方法总结.md",
+    "React/小小一个prev竟有这般作用！.md",
+    "JS/数组方法.md",
+    "灵感/未命名.md",
+    "灵感/小说.md",
+    "web3/Dapp.md",
+    "web3/学习进度.md",
+    "web3/思维导图-区块链概念.md",
+    "web3/区块链，比特币，挖矿，去中心化.md",
+    "web3/open build bootcamp/task4/nft market.canvas",
+    "账号密码管理APP/未命名.canvas",
     "RPC.md",
     "conflict-files-obsidian-git.md",
     "未命名.canvas",
     "career/curriculum vitae.canvas",
-    "JS/数组方法.md",
-    "账号密码管理APP/未命名.canvas",
-    "web3/区块链，比特币，挖矿，去中心化.md",
     "Setting/template/Array.md",
     "assets/img/Pasted image 20240728163338.png",
     "assets/img/React常用生命周期.png",
     "Front-end/React vs Vue vs Angular.md",
     "Front-end/React/useState异步原因.md",
-    "web3/学习进度.md",
     "assets/img/区块链技术概览及加密技术.png",
     "Front-end/React",
     "Front-end",
@@ -171,12 +187,10 @@
     "assets/img",
     "calendar/2024-07-25 useContext.md",
     "calendar/2024-07-17 learn solidity.md",
-    "web3/思维导图-区块链概念.md",
     "assets/区块链概念.png",
     "web3/学习路线.canvas",
     "assets",
     "calendar/2024-07-15 区块链基本概念.md",
-    "web3/open build bootcamp/task4/nft market.canvas",
     "web3/学习记录/web3 相关概念.md",
     "career/未命名.md",
     "career",
@@ -192,10 +206,6 @@
     "项目/todolist by next/未命名.canvas",
     "项目/todolist by next/功能设计.md",
     "web3/学习记录/wagmi 连接.md",
-    "web3/BTC密码学.md",
-    "Pasted image 20240419163949.png",
-    "灵感/小说.md",
-    "README.md",
-    "生活思考/机会与风险.md"
+    "Pasted image 20240419163949.png"
   ]
 }

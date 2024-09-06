@@ -1,12 +1,6 @@
 {
-  "accentColor": "",
-<<<<<<< HEAD
-  "cssTheme": "Maple",
-=======
-  "cssTheme": "Blue Topaz",
->>>>>>> origin/master
-  "theme": "obsidian",
-  "nativeMenus": false,
+  "interfaceFontFamily": "Microsoft YaHei UI",
+  "textFontFamily": "Microsoft YaHei",
   "enabledCssSnippets": [
     "codeblock"
   ]
