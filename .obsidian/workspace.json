@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/小小一个prev竟有这般作用！.md",
+                "file": "Vue/Vue3对比Vue2的效率提升.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/小小一个prev竟有这般作用！.md",
+                "file": "Vue/Vue3对比Vue2的效率提升.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/小小一个prev竟有这般作用！.md",
+                "file": "Vue/Vue3对比Vue2的效率提升.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/小小一个prev竟有这般作用！.md"
+                "file": "Vue/Vue3对比Vue2的效率提升.md"
               }
             }
           },
@@ -158,8 +158,12 @@
   },
   "active": "a0a5729fa3303f67",
   "lastOpenFiles": [
-    "JS/JavaScript 数组方法总结.md",
+    "career/Technical Point.md",
+    "Vue/Vue3对比Vue2的效率提升.md",
+    "Vue",
+    "career/curriculum vitae.canvas",
     "React/小小一个prev竟有这般作用！.md",
+    "JS/JavaScript 数组方法总结.md",
     "JS/数组方法.md",
     "灵感/未命名.md",
     "灵感/小说.md",
@@ -172,7 +176,6 @@
     "RPC.md",
     "conflict-files-obsidian-git.md",
     "未命名.canvas",
-    "career/curriculum vitae.canvas",
     "Setting/template/Array.md",
     "assets/img/Pasted image 20240728163338.png",
     "assets/img/React常用生命周期.png",
@@ -192,20 +195,17 @@
     "assets",
     "calendar/2024-07-15 区块链基本概念.md",
     "web3/学习记录/web3 相关概念.md",
-    "career/未命名.md",
     "career",
     "UI相关/设计规范.md",
     "技巧工具/Obsidian配置PicGo-core.md",
     "Setting/template/CSS color.md",
     "Setting/CSS",
     "Setting",
-    "Setting/template",
     "calendar/2024-06-28 nft market app.md",
     "2024-06-27.md",
     "web3/学习记录/web3 相关概念.canvas",
     "项目/todolist by next/未命名.canvas",
     "项目/todolist by next/功能设计.md",
-    "web3/学习记录/wagmi 连接.md",
     "Pasted image 20240419163949.png"
   ]
 }
