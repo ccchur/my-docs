@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8e49ef2aafcb0ab4",
+        "id": "17a101c59fdff0c9",
         "type": "tabs",
         "children": [
           {
-            "id": "1b81faad514fb961",
+            "id": "25861ba952891d9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "灵感/童年.md",
+                "file": "RPC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "灵感/童年.md",
+                "file": "RPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "灵感/童年.md",
+                "file": "RPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "灵感/童年.md"
+                "file": "RPC.md"
               }
             }
           },
@@ -155,10 +155,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "1b81faad514fb961",
+  "active": "c5c2b9f0a2814646",
   "lastOpenFiles": [
-    "career/curriculum vitae.canvas",
     "灵感/童年.md",
+    "career/curriculum vitae.canvas",
     "conflict-files-obsidian-git.md",
     "web3/区块链，比特币，挖矿，去中心化.md",
     "calendar/2024-07-25 useContext.md",
