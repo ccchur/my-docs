@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"6380dc2cf75fce22","type":"group","x":-1060,"y":-560,"width":568,"height":180,"color":"3","label":"工作经历"},
+		{"id":"520722443441b730","type":"text","text":"  1. 熟练使用HTML，CSS，Javascript，了解JS中的闭包，作用域，ES6新特性等，掌握使用Typescript进行开发\n 2.  \n 3. 了解使用Uni-app，并有开发微信小程序项目经验\n 4. 了解Git协作开发，分支管理，版本管理等\n 5. 了解计算机相关基础，如HTTP协议，TCP/IP协议等","x":-1060,"y":-820,"width":880,"height":180,"color":"3"},
+		{"id":"1d6293dc2ada1358","type":"text","text":"上海敏拂计算机科技有限公司 前端开发 2023.08-至今","x":-1040,"y":-460,"width":528,"height":50},
+		{"id":"114088fd7296efc4","type":"text","text":"深圳众云网科技有限公司 前端开发 2023.02-2023.06","x":-1040,"y":-540,"width":528,"height":50},
+		{"id":"270a53bb7d666b36","type":"text","text":"","x":-1060,"y":-300,"width":250,"height":60}
+	],
+	"edges":[]
+}
