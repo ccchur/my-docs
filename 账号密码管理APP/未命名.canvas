@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"15ee5782d3e0f8a4","x":-10,"y":-40,"width":250,"height":60,"type":"text","text":"登陆/注册"},
+		{"id":"15ee5782d3e0f8a4","type":"text","text":"登陆/注册","x":-10,"y":-40,"width":250,"height":60},
 		{"id":"3bc1c130729a0eec","type":"text","text":"添加账号密码","x":-10,"y":40,"width":250,"height":60},
-		{"id":"ff089e50dbcd9047","x":-10,"y":120,"width":250,"height":60,"type":"text","text":"查看/管理"},
-		{"id":"7ccd1deefe96fcf1","x":-460,"y":-40,"width":250,"height":50,"type":"text","text":"账号管理APP"},
-		{"id":"87d65c260327d2c3","x":-10,"y":200,"width":250,"height":60,"type":"text","text":""}
+		{"id":"ff089e50dbcd9047","type":"text","text":"查看/管理","x":-10,"y":120,"width":250,"height":60},
+		{"id":"87d65c260327d2c3","type":"text","text":"","x":-10,"y":200,"width":250,"height":60},
+		{"id":"7ccd1deefe96fcf1","type":"text","text":"账号管理APP","x":-480,"y":95,"width":250,"height":50}
 	],
 	"edges":[
 		{"id":"940b1e2e3b9cfad8","fromNode":"7ccd1deefe96fcf1","fromSide":"right","toNode":"15ee5782d3e0f8a4","toSide":"left"},
