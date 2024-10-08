@@ -11,11 +11,14 @@
             "id": "3831ad3bbf6a34ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "career/国际化多语言配置.md",
-                "mode": "preview",
-                "source": false
+                "file": "career/项目技术点.canvas",
+                "viewState": {
+                  "x": -620,
+                  "y": -251,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -86,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "career/国际化多语言配置.md",
+                "file": "career/项目技术点.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "career/国际化多语言配置.md",
+                "file": "career/项目技术点.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "career/国际化多语言配置.md"
+                "file": "career/项目技术点.canvas"
               }
             }
           },
@@ -159,11 +162,11 @@
   },
   "active": "3831ad3bbf6a34ed",
   "lastOpenFiles": [
-    "career/项目技术点.canvas",
     "career/国际化多语言配置.md",
+    "career/项目技术点.canvas",
     "career/curriculum vitae.canvas",
-    "国际化多语言配置.md",
     "career/Technical Point.md",
+    "国际化多语言配置.md",
     "Vue/Vue3对比Vue2的效率提升.md",
     "Vue",
     "React/小小一个prev竟有这般作用！.md",
