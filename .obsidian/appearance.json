@@ -1,7 +1,3 @@
 {
-  "interfaceFontFamily": "Microsoft YaHei UI",
-  "textFontFamily": "Microsoft YaHei",
-  "enabledCssSnippets": [
-    "codeblock"
-  ]
+  "cssTheme": "Blue Topaz"
 }
