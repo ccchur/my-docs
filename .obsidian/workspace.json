@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "career/分时函数，虚拟列表优化.md",
+                "file": "career/大文件上传.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3f295fa673ec3346",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "career/分时函数，虚拟列表优化.md",
+                "file": "career/大文件上传.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "career/分时函数，虚拟列表优化.md",
+                "file": "career/大文件上传.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "career/分时函数，虚拟列表优化.md"
+                "file": "career/大文件上传.md"
               }
             }
           },
@@ -160,8 +159,9 @@
   "active": "f5600a98fad5f8bd",
   "lastOpenFiles": [
     "career/多语言国际化与适配.md",
-    "父组件传值为空.md",
+    "career/大文件上传.md",
     "career/分时函数，虚拟列表优化.md",
+    "父组件传值为空.md",
     "career/curriculum vitae.canvas",
     "career/Technical Point.md",
     "career/总结.md",
@@ -202,7 +202,6 @@
     "assets/区块链概念.png",
     "web3/学习路线.canvas",
     "assets",
-    "calendar/2024-07-15 区块链基本概念.md",
     "career",
     "Setting/CSS",
     "Setting",
