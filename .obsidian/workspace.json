@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "career/大文件上传.md",
+                "file": "career/在Angular中使用Vue组件.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "career/大文件上传.md",
+                "file": "career/在Angular中使用Vue组件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "career/大文件上传.md",
+                "file": "career/在Angular中使用Vue组件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "career/大文件上传.md"
+                "file": "career/在Angular中使用Vue组件.md"
               }
             }
           },
@@ -158,14 +158,16 @@
   },
   "active": "f5600a98fad5f8bd",
   "lastOpenFiles": [
+    "career/分时函数，虚拟列表优化.md",
     "career/多语言国际化与适配.md",
     "career/大文件上传.md",
-    "career/分时函数，虚拟列表优化.md",
+    "career/项目技术点.canvas",
+    "JS/数组方法.md",
+    "career/在Angular中使用Vue组件.md",
     "父组件传值为空.md",
     "career/curriculum vitae.canvas",
     "career/Technical Point.md",
     "career/总结.md",
-    "career/项目技术点.canvas",
     "career/国际化多语言配置.md",
     "conflict-files-obsidian-git.md",
     "灵感/童年.md",
@@ -174,7 +176,6 @@
     "Vue",
     "React/小小一个prev竟有这般作用！.md",
     "JS/JavaScript 数组方法总结.md",
-    "JS/数组方法.md",
     "灵感/未命名.md",
     "灵感/小说.md",
     "web3/Dapp.md",
@@ -197,8 +198,6 @@
     "账号密码管理APP",
     "assets/img/区块链概念.png",
     "assets/img",
-    "calendar/2024-07-25 useContext.md",
-    "calendar/2024-07-17 learn solidity.md",
     "assets/区块链概念.png",
     "web3/学习路线.canvas",
     "assets",
