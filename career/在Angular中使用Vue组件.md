@@ -18,3 +18,7 @@ Angular之所以能够使用Vue的组件，主要是由于在原生的Web中提�
 - 跨框架兼容： 由于输出的是标准的 Web Components，这些组件可以在任何支持 Web Components 的环境中使用，不仅限于 Vue 应用。
 - 生命周期映射： Vue 的生命周期钩子会被适当地映射到 Web Components 的生命周期回调上。
 - 属性和事件处理： 它会自动处理 props 到属性的映射，以及事件的发射和监听。
+
+## About Web Components
+
+- 
