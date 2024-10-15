@@ -1,14 +1,5 @@
-- vue2+vue3(3.5)
-- vite
-- 网络安全
-- 浏览器原理
-- Design pattern(设计模式)
-- html+css
-- js
-- ts
-- uniapp
 
-· 掌握使用HTML，CSS，Javascript，了解JS中闭包，作用域，ES6新特性等，熟悉使用Typescript
+· 掌握使用HTML，CSS，Javascript，了解JS中闭包，作用域等，熟悉Typescript的基本使用
 
 · 熟练使用Vue和Angular框架，了解使用React，Next.js进行开发，快速开发功能，搭建界面
 

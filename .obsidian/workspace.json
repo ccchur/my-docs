@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "career/Technical Point.md",
+                "file": "面试专题/目录导航.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9af9c4537fc6fb02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试专题/Vue.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3f295fa673ec3346",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "career/Technical Point.md",
+                "file": "面试专题/Vue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "career/Technical Point.md",
+                "file": "面试专题/Vue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "career/Technical Point.md"
+                "file": "面试专题/Vue.md"
               }
             }
           },
@@ -156,18 +170,24 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "f5600a98fad5f8bd",
+  "active": "c5c2b9f0a2814646",
   "lastOpenFiles": [
+    "career/Vue.md",
+    "面试专题/Vue.md",
+    "面试专题/目录导航.md",
+    "面试专题/HTML+CSS.md",
+    "面试专题/CSS.md",
+    "career/Technical Point.md",
+    "career/大文件上传.md",
     "career/项目技术点.canvas",
+    "career/curriculum vitae.canvas",
+    "career/总结.md",
     "12.md",
+    "面试专题",
     "career/在Angular中使用Vue组件.md",
     "career/多语言国际化与适配.md",
-    "career/大文件上传.md",
     "career/分时函数，虚拟列表优化.md",
     "JS/数组方法.md",
-    "career/curriculum vitae.canvas",
-    "career/Technical Point.md",
-    "career/总结.md",
     "career/国际化多语言配置.md",
     "conflict-files-obsidian-git.md",
     "灵感/童年.md",
@@ -184,13 +204,9 @@
     "web3/区块链，比特币，挖矿，去中心化.md",
     "web3/open build bootcamp/task4/nft market.canvas",
     "账号密码管理APP/未命名.canvas",
-    "RPC.md",
     "未命名.canvas",
-    "Setting/template/Array.md",
     "assets/img/Pasted image 20240728163338.png",
     "assets/img/React常用生命周期.png",
-    "Front-end/React vs Vue vs Angular.md",
-    "Front-end/React/useState异步原因.md",
     "assets/img/区块链技术概览及加密技术.png",
     "Front-end/React",
     "Front-end",
@@ -203,7 +219,6 @@
     "assets",
     "career",
     "Setting/CSS",
-    "Setting",
     "web3/学习记录/web3 相关概念.canvas",
     "项目/todolist by next/未命名.canvas",
     "Pasted image 20240419163949.png"
