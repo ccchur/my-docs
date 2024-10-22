@@ -1,6 +1,6 @@
 {
-  "cssTheme": "Blue Topaz",
-  "enabledCssSnippets": [
-    "codeblock"
-  ]
+  "cssTheme": "Prism",
+  "enabledCssSnippets": [],
+  "accentColor": "",
+  "theme": "obsidian"
 }
