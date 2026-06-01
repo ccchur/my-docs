@@ -11,10 +11,14 @@
             "id": "3cb38c4ef37b9ff1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "灵感/小说.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "小说"
             }
           }
         ]
@@ -185,11 +189,11 @@
   },
   "active": "3cb38c4ef37b9ff1",
   "lastOpenFiles": [
+    "灵感/未命名.md",
     "灵感/摩的师傅.md",
     "技巧工具/Obsidian配置PicGo-core.md",
     "Vue/Vue3对比Vue2的效率提升.md",
     "灵感/小说.md",
-    "灵感/未命名.md",
     "灵感/童年.md",
     "生活思考/机会与风险.md",
     "面试专题/复习路线.md",
