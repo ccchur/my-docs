@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Vue3对比Vue2的效率提升"
             }
+          },
+          {
+            "id": "d22788b6f402efb3",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,7 +198,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c5c2b9f0a2814646",
+  "active": "d22788b6f402efb3",
   "lastOpenFiles": [
     "灵感/小说.md",
     "灵感/未命名.md",
