@@ -179,7 +179,12 @@ body.theme-light {
   --graph-circle-fill-highlight: var(--paperline-accent);
   --graph-line-fill-highlight: var(--paperline-accent);
 
-  /* Neutralize decorative folder rainbows while preserving row geometry. */
+}
+
+/* Resolve folder colors inside the explorer, after Blue Topaz's body palette.
+   The A-Z roles are intentional: Blue Topaz uses letters after Fold9. */
+body.theme-light .nav-files-container {
+  --FoldText: var(--paperline-muted);
   --Fold0: var(--paperline-muted);
   --Fold1: var(--paperline-muted);
   --Fold2: var(--paperline-muted);
@@ -190,16 +195,32 @@ body.theme-light {
   --Fold7: var(--paperline-muted);
   --Fold8: var(--paperline-muted);
   --Fold9: var(--paperline-muted);
-  --Fold10: var(--paperline-muted);
-  --Fold11: var(--paperline-muted);
-  --Fold12: var(--paperline-muted);
-  --Fold13: var(--paperline-muted);
-  --Fold14: var(--paperline-muted);
-  --Fold15: var(--paperline-muted);
-  --Fold16: var(--paperline-muted);
-  --Fold17: var(--paperline-muted);
-  --Fold18: var(--paperline-muted);
-  --Fold19: var(--paperline-muted);
+  --FoldA: var(--paperline-muted);
+  --FoldB: var(--paperline-muted);
+  --FoldC: var(--paperline-muted);
+  --FoldD: var(--paperline-muted);
+  --FoldE: var(--paperline-muted);
+  --FoldF: var(--paperline-muted);
+  --FoldG: var(--paperline-muted);
+  --FoldH: var(--paperline-muted);
+  --FoldI: var(--paperline-muted);
+  --FoldJ: var(--paperline-muted);
+  --FoldK: var(--paperline-muted);
+  --FoldL: var(--paperline-muted);
+  --FoldM: var(--paperline-muted);
+  --FoldN: var(--paperline-muted);
+  --FoldO: var(--paperline-muted);
+  --FoldP: var(--paperline-muted);
+  --FoldQ: var(--paperline-muted);
+  --FoldR: var(--paperline-muted);
+  --FoldS: var(--paperline-muted);
+  --FoldT: var(--paperline-muted);
+  --FoldU: var(--paperline-muted);
+  --FoldV: var(--paperline-muted);
+  --FoldW: var(--paperline-muted);
+  --FoldX: var(--paperline-muted);
+  --FoldY: var(--paperline-muted);
+  --FoldZ: var(--paperline-muted);
 }
 
 /* Stronger input edges than the decorative separators, with visible focus. */
