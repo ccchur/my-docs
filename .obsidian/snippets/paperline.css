@@ -23,7 +23,7 @@ body.theme-light {
   --paperline-font-sans: "Geist", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
   --paperline-font-mono: "Geist Mono", "Cascadia Mono", "SFMono-Regular", Consolas, ui-monospace, monospace;
 
-  /* Obsidian's existing theme roles. Keep status and syntax colors intact. */
+  /* Obsidian's existing roles. Preserve status colors and syntax distinctions. */
   --background-primary: var(--paperline-paper);
   --background-primary-alt: var(--paperline-surface-muted);
   --background-secondary: var(--paperline-surface-muted);
@@ -127,6 +127,24 @@ body.theme-light {
   --blockquote-background-color: transparent;
   --code-background: var(--paperline-surface-muted);
   --code-normal: var(--paperline-ink);
+  --code-comment: var(--paperline-muted);
+  --code-keyword: var(--paperline-link);
+  --code-string: #23684b;
+  --code-string-2: #23684b;
+  --code-function: #76528a;
+  --code-property: #76528a;
+  --code-important: var(--paperline-accent-ink);
+  --code-value: var(--paperline-accent-ink);
+  --code-operator: var(--paperline-muted);
+  --code-punctuation: var(--paperline-muted);
+  --code-tag: var(--paperline-link);
+  --code-attribute: #76528a;
+  --code-qualifier: #76528a;
+  --code-type: var(--paperline-link);
+  --code-atom: var(--paperline-accent-ink);
+  --code-meta: var(--paperline-muted);
+  --code-builtin: var(--paperline-link);
+  --code-language: var(--paperline-muted);
   --table-border-color: var(--paperline-rule);
   --table-header-background: var(--paperline-surface-muted);
   --table-header-background-hover: var(--paperline-surface-muted);
