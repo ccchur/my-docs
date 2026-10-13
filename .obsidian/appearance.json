@@ -1,6 +1,8 @@
 {
   "cssTheme": "Blue Topaz",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "paperline"
+  ],
   "accentColor": "",
-  "theme": "obsidian"
+  "theme": "moonstone"
 }

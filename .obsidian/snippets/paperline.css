@@ -1,0 +1,243 @@
+/* Paperline for my-docs. Enable in Settings > Appearance > CSS snippets.
+   Light mode only; Blue Topaz remains the base theme for both color schemes.
+   To restore the previous appearance, disable this snippet and choose Dark.
+   No remote fonts, content changes, or workspace geometry overrides. */
+
+body.theme-light {
+  --paperline-paper: #f5f5f5;
+  --paperline-surface: #ffffff;
+  --paperline-surface-muted: #ececec;
+  --paperline-ink: #2d3142;
+  --paperline-muted: #4f5d75;
+  --paperline-soft: #5a6580;
+  --paperline-rule: rgba(45, 49, 66, 0.12);
+  --paperline-rule-strong: #bfc0c0;
+  --paperline-control-border: #7b8294;
+  --paperline-accent: #bf4520;
+  --paperline-accent-hover: #a73b1b;
+  --paperline-accent-tint: rgba(191, 69, 32, 0.08);
+  --paperline-accent-ink: #a23919;
+  --paperline-on-accent: #ffffff;
+  --paperline-link: #2e5aa8;
+  --paperline-focus: #2e5aa8;
+  --paperline-font-sans: "Geist", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  --paperline-font-mono: "Geist Mono", "Cascadia Mono", "SFMono-Regular", Consolas, ui-monospace, monospace;
+
+  /* Obsidian's existing theme roles. Keep status and syntax colors intact. */
+  --background-primary: var(--paperline-paper);
+  --background-primary-alt: var(--paperline-surface-muted);
+  --background-secondary: var(--paperline-surface-muted);
+  --background-secondary-alt: var(--paperline-paper);
+  --background-modifier-hover: rgba(45, 49, 66, 0.05);
+  --background-modifier-active-hover: var(--paperline-accent-tint);
+  --background-modifier-border: var(--paperline-rule);
+  --background-modifier-border-hover: var(--paperline-control-border);
+  --background-modifier-border-focus: var(--paperline-focus);
+  --background-modifier-form-field: var(--paperline-surface);
+  --background-modifier-form-field-highlighted: var(--paperline-surface);
+  --background-modifier-box-shadow: transparent;
+  --background-modifier-cover: rgba(45, 49, 66, 0.32);
+  --text-normal: var(--paperline-ink);
+  --text-muted: var(--paperline-muted);
+  --text-faint: var(--paperline-soft);
+  --text-accent: var(--paperline-link);
+  --text-accent-hover: var(--paperline-focus);
+  --text-on-accent: var(--paperline-on-accent);
+  --text-on-accent-inverted: var(--paperline-ink);
+  --text-selection: rgba(46, 90, 168, 0.16);
+  --text-highlight-bg: rgba(191, 69, 32, 0.14);
+  --interactive-normal: var(--paperline-surface);
+  --interactive-hover: var(--paperline-surface-muted);
+  --interactive-accent: var(--paperline-accent);
+  --interactive-accent-hover: var(--paperline-accent-hover);
+  --interactive-accent-rgb: 191, 69, 32;
+  --accent-h: 14;
+  --accent-s: 71%;
+  --accent-l: 44%;
+  --color-accent: var(--paperline-accent);
+  --color-accent-1: var(--paperline-accent);
+  --color-accent-2: var(--paperline-accent-hover);
+  --font-interface-theme: var(--paperline-font-sans);
+  --font-text-theme: var(--paperline-font-sans);
+  --font-monospace-theme: var(--paperline-font-mono);
+  --radius-s: 4px;
+  --radius-m: 6px;
+  --radius-l: 8px;
+  --input-radius: 4px;
+  --input-shadow: none;
+  --input-shadow-hover: none;
+  --shadow-s: none;
+  --shadow-l: none;
+  --modal-background: var(--paperline-surface);
+  --modal-border-color: var(--paperline-control-border);
+  --menu-background: var(--paperline-surface);
+  --menu-border-color: var(--paperline-control-border);
+  --prompt-border-color: var(--paperline-control-border);
+  --titlebar-background: var(--paperline-surface-muted);
+  --titlebar-background-focused: var(--paperline-surface-muted);
+  --titlebar-text-color: var(--paperline-muted);
+  --titlebar-text-color-focused: var(--paperline-ink);
+  --ribbon-background: var(--paperline-surface-muted);
+  --ribbon-background-collapsed: var(--paperline-surface-muted);
+  --status-bar-background: var(--paperline-surface-muted);
+  --status-bar-text-color: var(--paperline-muted);
+  --tab-background-active: var(--paperline-paper);
+  --tab-text-color: var(--paperline-muted);
+  --tab-text-color-focused: var(--paperline-ink);
+  --tab-text-color-active: var(--paperline-accent-ink);
+  --tab-text-color-focused-active: var(--paperline-accent-ink);
+  --tab-text-color-focused-active-current: var(--paperline-accent-ink);
+  --tab-outline-color: var(--paperline-rule);
+  --nav-item-color: var(--paperline-muted);
+  --nav-item-color-hover: var(--paperline-ink);
+  --nav-item-color-active: var(--paperline-accent-ink);
+  --nav-item-background-hover: rgba(45, 49, 66, 0.05);
+  --nav-item-background-active: var(--paperline-accent-tint);
+  --nav-item-color-selected: var(--paperline-accent-ink);
+  --nav-item-background-selected: var(--paperline-accent-tint);
+  --nav-heading-color: var(--paperline-ink);
+  --nav-heading-color-hover: var(--paperline-ink);
+  --nav-collapse-icon-color: var(--paperline-soft);
+  --nav-collapse-icon-color-collapsed: var(--paperline-soft);
+  --icon-color: var(--paperline-muted);
+  --icon-color-hover: var(--paperline-ink);
+  --icon-color-active: var(--paperline-accent-ink);
+  --icon-color-focused: var(--paperline-ink);
+  --checkbox-color: var(--paperline-accent);
+  --checkbox-color-hover: var(--paperline-accent-hover);
+  --checkbox-border-color: var(--paperline-control-border);
+  --checkbox-border-color-hover: var(--paperline-focus);
+  --slider-track-background: var(--paperline-rule-strong);
+  --slider-thumb-border-color: var(--paperline-control-border);
+  --toggle-border-width: 1px;
+  --toggle-thumb-color: var(--paperline-surface);
+  --link-color: var(--paperline-link);
+  --link-color-hover: var(--paperline-focus);
+  --link-external-color: var(--paperline-link);
+  --link-external-color-hover: var(--paperline-focus);
+  --inline-title-color: var(--paperline-ink);
+  --h1-color: var(--paperline-ink);
+  --h2-color: var(--paperline-ink);
+  --h3-color: var(--paperline-ink);
+  --h4-color: var(--paperline-muted);
+  --h5-color: var(--paperline-muted);
+  --h6-color: var(--paperline-muted);
+  --hr-color: var(--paperline-rule-strong);
+  --blockquote-border-color: var(--paperline-rule-strong);
+  --blockquote-background-color: transparent;
+  --code-background: var(--paperline-surface-muted);
+  --code-normal: var(--paperline-ink);
+  --table-border-color: var(--paperline-rule);
+  --table-header-background: var(--paperline-surface-muted);
+  --table-header-background-hover: var(--paperline-surface-muted);
+  --table-header-color: var(--paperline-ink);
+  --table-row-background-hover: rgba(45, 49, 66, 0.04);
+  --tag-background: rgba(79, 93, 117, 0.08);
+  --tag-background-hover: rgba(79, 93, 117, 0.14);
+  --tag-color: var(--paperline-muted);
+  --tag-color-hover: var(--paperline-ink);
+
+  /* Blue Topaz uses its own roles for several visible surfaces. */
+  --text-folder-file: var(--paperline-muted);
+  --folder-title: var(--paperline-ink);
+  --panel-border-color: var(--paperline-rule);
+  --search-text: var(--paperline-ink);
+  --accent-strong: var(--paperline-ink);
+  --accent-em: var(--paperline-muted);
+  --font-family-folder-file-title: var(--paperline-font-sans);
+  --font-family-vault: var(--paperline-font-sans);
+  --font-family-tag: var(--paperline-font-sans);
+  --font-family-strong: var(--paperline-font-sans);
+  --line-height-main: 1.8;
+  --background-blockquote: transparent;
+  --background-code: var(--paperline-surface-muted);
+  --background-code-2: var(--paperline-surface-muted);
+  --text-color-code: var(--paperline-ink);
+  --table-background-color: transparent;
+  --table-background-color-odd: transparent;
+  --table-thead-background-color: var(--paperline-surface-muted);
+  --table-hover-raw-color: rgba(45, 49, 66, 0.04);
+  --table-hover-color: rgba(45, 49, 66, 0.04);
+  --table-hover-thead-color: var(--paperline-surface-muted);
+  --internal-link-color: var(--paperline-link);
+  --external-link-color: var(--paperline-link);
+  --list-ul-disc-color: var(--paperline-muted);
+  --list-ul-block-color: var(--paperline-muted);
+  --list-ol-block-color: var(--paperline-muted);
+  --list-marker-color: var(--paperline-muted);
+  --color-view-header-gradient-1: var(--paperline-paper);
+  --color-view-header-gradient-2: var(--paperline-paper);
+  --window-shadow: none;
+  --window-shadow2: none;
+  --window-shadow-hover: none;
+  --prompt-box-shadow: transparent;
+  --graph-text-color: var(--paperline-muted);
+  --graph-line: var(--paperline-rule-strong);
+  --graph-circle: var(--paperline-muted);
+  --graph-control-bg: var(--paperline-surface);
+  --graph-canvas-bg: var(--paperline-paper);
+  --graph-circle-fill-highlight: var(--paperline-accent);
+  --graph-line-fill-highlight: var(--paperline-accent);
+
+  /* Neutralize decorative folder rainbows while preserving row geometry. */
+  --Fold0: var(--paperline-muted);
+  --Fold1: var(--paperline-muted);
+  --Fold2: var(--paperline-muted);
+  --Fold3: var(--paperline-muted);
+  --Fold4: var(--paperline-muted);
+  --Fold5: var(--paperline-muted);
+  --Fold6: var(--paperline-muted);
+  --Fold7: var(--paperline-muted);
+  --Fold8: var(--paperline-muted);
+  --Fold9: var(--paperline-muted);
+  --Fold10: var(--paperline-muted);
+  --Fold11: var(--paperline-muted);
+  --Fold12: var(--paperline-muted);
+  --Fold13: var(--paperline-muted);
+  --Fold14: var(--paperline-muted);
+  --Fold15: var(--paperline-muted);
+  --Fold16: var(--paperline-muted);
+  --Fold17: var(--paperline-muted);
+  --Fold18: var(--paperline-muted);
+  --Fold19: var(--paperline-muted);
+}
+
+/* Stronger input edges than the decorative separators, with visible focus. */
+body.theme-light :is(.setting-item-control, .search-input-container, .prompt) {
+  --background-modifier-border: var(--paperline-control-border);
+}
+
+body.theme-light :is(.setting-item-control, .search-input-container, .prompt)
+  :is(input:not([type="range"]), select, textarea):focus-visible {
+  outline: 2px solid var(--paperline-focus);
+  outline-offset: 2px;
+}
+
+body.theme-light .setting-item-control button:focus-visible,
+body.theme-light .clickable-icon:focus-visible {
+  outline: 2px solid var(--paperline-focus);
+  outline-offset: 2px;
+}
+
+body.theme-light .workspace-tab-header.is-active .workspace-tab-header-inner {
+  background-color: var(--paperline-accent-tint);
+  box-shadow: none;
+}
+
+body.theme-light :is(.modal, .menu, .prompt, .graph-controls) {
+  box-shadow: none;
+  backdrop-filter: none;
+  background-color: var(--paperline-surface);
+  border-color: var(--paperline-control-border);
+}
+
+body.theme-light .markdown-rendered pre,
+body.theme-light .markdown-source-view.mod-cm6 .HyperMD-codeblock {
+  box-shadow: none;
+  background-image: none;
+}
+
+body.theme-light .markdown-rendered hr {
+  border-image: none;
+  border-color: var(--paperline-rule-strong);
+}
