@@ -4,5 +4,6 @@
     "paperline"
   ],
   "accentColor": "",
-  "theme": "moonstone"
+  "theme": "obsidian",
+  "interfaceFontFamily": "Segoe UI,Segoe UI Emoji,Yu Gothic UI"
 }
