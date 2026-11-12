@@ -1,9 +1,10 @@
 {
   "autoLayoutDefault": true,
   "autoLayoutEnabledFor": {
-    "nft market.canvas": false,
-    "web3/open build bootcamp/task4/nft market.canvas": false,
-    "career/curriculum vitae.canvas": false,
-    "career/项目技术点.canvas": false
+    "专题/项目草案/NFT Market 合约与流程.canvas": false,
+    "职业/简历.canvas": false,
+    "归档/职业/项目技术点（旧稿）.canvas": false,
+    "归档/学习/Web3 学习路线.canvas": false,
+    "专题/项目草案/账号管理 APP 功能草图.canvas": false
   }
 }

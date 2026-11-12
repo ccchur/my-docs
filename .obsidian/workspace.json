@@ -11,10 +11,14 @@
             "id": "bfb5b52b2b0d3775",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
+              "type": "markdown",
+              "state": {
+                "file": "首页.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "首页"
             }
           }
         ]
@@ -92,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试专题/复习路线.md",
+                "file": "专题/面试准备/复习路线.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试专题/TypeScript.md",
+                "file": "专题/面试准备/TypeScript问答.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -138,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试专题/TypeScript.md"
+                "file": "专题/面试准备/TypeScript问答.md"
               },
               "icon": "lucide-list",
               "title": "TypeScript 的大纲"
@@ -180,64 +184,50 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "command-palette:打开命令面板": false
     }
   },
   "active": "bfb5b52b2b0d3775",
   "lastOpenFiles": [
-    "calendar/2024-07-15 区块链基本概念.md",
-    "calendar/2024-07-17 learn solidity.md",
-    "calendar/2024-07-25 useContext.md",
-    "calendar/2024-06-28 nft market app.md",
-    "灵感/摩的师傅.md",
-    "career/多语言国际化与适配.md",
-    "career/大文件上传.md",
-    "灵感/童年.md",
-    "灵感/未命名.md",
-    "灵感/小说.md",
-    "JS/数组方法.md",
-    "JS/JavaScript 数组方法总结.md",
-    "_agent-memory/README.md",
-    "生活思考/机会与风险.md",
-    "Vue/Vue3对比Vue2的效率提升.md",
-    "技巧工具/Obsidian配置PicGo-core.md",
-    "面试专题/复习路线.md",
-    "面试专题/目录导航.md",
-    "面试专题/HTML+CSS.md",
-    "账号密码管理APP/未命名.canvas",
-    "web3/BTC密码学.md",
-    "career/在Angular中使用web components组件.md",
+    "首页.md",
+    "写作/随笔/摩的师傅.md",
+    "知识/前端/工程实践/多语言国际化与适配.md",
+    "知识/前端/工程实践/大文件上传.md",
+    "写作/随笔/童年（草稿）.md",
+    "写作/素材/那些日子的苦涩.md",
+    "写作/素材/多线叙事构想.md",
+    "知识/前端/JavaScript/数组方法详解.md",
+    "知识/前端/JavaScript/数组方法速查.md",
+    "写作/随笔/机会与风险.md",
+    "知识/前端/Vue/Vue3对比Vue2的效率提升.md",
+    "知识/工具/Obsidian配置PicGo-core.md",
+    "专题/面试准备/复习路线.md",
+    "专题/面试准备/HTML与CSS问答.md",
+    "专题/项目草案/账号管理 APP 功能草图.canvas",
+    "知识/Web3/BTC密码学.md",
+    "知识/前端/工程实践/在Angular中使用web components组件.md",
     "assets/img/Pasted image 20241021095431.png",
     "assets/img/Pasted image 20240728163338.png",
-    "Pasted image 20241021095609.png",
-    "面试专题/JS/JavaScript的内存管理：垃圾回收机制.md",
-    "面试专题/JS/闭包.md",
-    "面试专题/JS/JS.md",
-    "面试专题/Vue/Vue.md",
-    "面试专题/JS/JS.canvas",
+    "知识/前端/JavaScript/JavaScript的内存管理：垃圾回收机制.md",
+    "专题/面试准备/JavaScript问答.md",
+    "知识/前端/前端索引.md",
     "面试专题/JS",
-    "career/分时函数，虚拟列表优化.md",
-    "career/项目技术点.canvas",
-    "career/curriculum vitae.canvas",
+    "知识/前端/工程实践/分时函数与虚拟列表优化.md",
+    "归档/职业/项目技术点（旧稿）.canvas",
+    "职业/简历.canvas",
     "assets/img/区块链概念.png",
     "assets/img/区块链技术概览及加密技术.png",
     "assets/img/React常用生命周期.png",
     "面试专题/Vue",
     "面试专题",
     "Vue",
-    "web3/open build bootcamp/task4/nft market.canvas",
-    "未命名.canvas",
+    "专题/项目草案/NFT Market 合约与流程.canvas",
     "Front-end/React",
     "Front-end",
     "React",
     "账号密码管理APP",
     "assets/img",
-    "assets/区块链概念.png",
-    "web3/学习路线.canvas",
-    "assets",
-    "web3/学习记录/web3 相关概念.canvas",
-    "项目/todolist by next/未命名.canvas",
-    "Pasted image 20240419163949.png"
+    "归档/学习/Web3 学习路线.canvas",
+    "assets"
   ]
 }
