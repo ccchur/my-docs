@@ -11,17 +11,14 @@
             "id": "bfb5b52b2b0d3775",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "职业/简历.canvas",
-                "viewState": {
-                  "x": 790,
-                  "y": 745,
-                  "zoom": -1.0293439615821445
-                }
+                "file": "首页.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "简历"
+              "icon": "lucide-file",
+              "title": "首页"
             }
           }
         ]
@@ -192,6 +189,7 @@
   },
   "active": "bfb5b52b2b0d3775",
   "lastOpenFiles": [
+    "职业/简历.canvas",
     "职业/职业资料.md",
     "首页.md",
     "写作/随笔/摩的师傅.md",
@@ -218,7 +216,6 @@
     "面试专题/JS",
     "知识/前端/工程实践/分时函数与虚拟列表优化.md",
     "归档/职业/项目技术点（旧稿）.canvas",
-    "职业/简历.canvas",
     "assets/img/区块链概念.png",
     "assets/img/区块链技术概览及加密技术.png",
     "assets/img/React常用生命周期.png",
